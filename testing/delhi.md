@@ -1,7 +1,8 @@
-chennai
-delhi
-chennai
-trichy
-madurai
-cumbom
-thaani
+# Tour plan 
+- chennai
+- delhi
+- chennai
+- trichy
+- madurai
+- cumbom
+- thaani
