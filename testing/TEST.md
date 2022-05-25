@@ -1,4 +1,4 @@
-case task 
-labour
-emp
-vocation
+# case task 
+- labour
+- emp
+- vocation
