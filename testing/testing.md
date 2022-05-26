@@ -29,6 +29,11 @@
 ![image](https://user-images.githubusercontent.com/105497741/170471810-4d66721d-26ea-4456-99fd-a8b135bb0cf0.png)
 ### Each of these stages has a definite Entry and Exit criteria, Activities & Deliverables associated with it.
 
+# Test Strategy in STLC:
+
+![image](https://user-images.githubusercontent.com/105497741/170480771-0e7add09-a658-4c89-86e9-5b66f02243f0.png)
+
+
 # What is Entry and Exit Criteria in STLC?
 
 - Entry Criteria: Entry Criteria gives the prerequisite items that must be completed before testing can begin.
@@ -124,5 +129,6 @@ Test Planning in STLC is a phase in which a Senior QA manager determines the tes
 ### Test metrics
 
 # Document Ref: https://www.guru99.com/software-testing-life-cycle.html
+
 
 ### prepared FTS Team.
