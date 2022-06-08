@@ -1,4 +1,5 @@
-# About the job
+# About the Tesing job Model Requirments 
+
 Welcome to EPAM Anywhere - a global job platform offering remote work opportunities for tech professionals. Join us to build a career around your lifestyle working on modern projects for global brands and exciting startups.
 
 We are currently looking for a remote Middle Automation Tester with experience with Java and knowledge of Jenkins and Maven to join our team.
@@ -64,3 +65,23 @@ The customer is a French multinational retailer of personal care and beauty prod
 #### Please note that even though you are applying for this position, you may be offered other projects to join within EPAM Anywhere.
 
 #### EPAM Anywhere is a part of EPAM Systems, Inc. (NYSE: EPAM). Since 1993, EPAM has leveraged its advanced software engineering heritage to become the foremost global digital transformation services provider.
+
+# TESTING FIELD WHAT YOU SHOULD LEARN 
+
+- Functional Testing
+- System Testing
+- Regression Testing
+- Defect Tracking
+- Compatibility Testing
+- Change Requests
+- User StoriesUser Stories
+- GUI Testing
+- Sanity Testing
+- Graphical User Interface (GUI)
+- Software Testing
+- Testing Process
+- Test Environments
+- ScrumScrum
+- Test Management
+- Business Requirements
+- Quality Assurance
