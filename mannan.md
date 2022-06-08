@@ -1,3 +1,0 @@
-raja
-rani
-new
