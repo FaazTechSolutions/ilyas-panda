@@ -85,3 +85,38 @@ The customer is a French multinational retailer of personal care and beauty prod
 - Test Management
 - Business Requirements
 - Quality Assurance
+
+# Required Common skill:
+
+- Software Development Life Cycle (SDLC)
+- Microsoft SQL Server
+- Quality Assurance
+- Test Cases
+- Manual Testing
+- Functional Testing
+- Software Development
+- PL/SQL
+- Software Testing Life Cycle (STLC)
+- Test complete
+- Jenkins
+- Eclipse
+- Test case development
+
+# Industry knowledge: 
+
+- Software Development Life Cycle (SDLC)
+- Quality Assurance
+- Test Cases
+- Manual Testing
+- Functional Testing
+- Software Development
+- Software Testing Life Cycle (STLC)
+- Test complete
+- Test case development
+
+# Tools & Technologies:
+
+- Microsoft SQL Server 
+- PL/SQL 
+- Jenkins 
+- Eclipse
