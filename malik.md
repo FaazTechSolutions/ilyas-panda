@@ -1,4 +1,0 @@
-waseema
-akram
-mishaba
-saju
