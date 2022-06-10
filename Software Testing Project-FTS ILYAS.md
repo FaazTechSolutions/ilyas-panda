@@ -31,3 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/105497741/173087972-735f9bd8-0a73-436e-81cb-eb8ee36447a4.png)
 
+| Testing Category  | Types of Testing |
+
+| Funtional Testing |- Unit Testing    |
+
