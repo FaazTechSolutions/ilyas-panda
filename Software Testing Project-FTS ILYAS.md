@@ -40,7 +40,7 @@
 |                   | Integration Test |                    | volume |
 |                   | Smoke test       |                    | Scalability |
 |                   | UAT Test         |                    | Usability |
-|                   | Localization     | 
+|                   | Localization     |                    | SECURITY TEST |
 |                   | Globalization    | 
 |                   | Interoperability | 
 
@@ -57,4 +57,10 @@
 | Dependency Testing | Dynamic Testing | Domain Testing | Error-Handling Testing | End-to-end Testing | Endurance Testing | Exploratory Testing | 
 | Fault injection Testing | Functional Testing | Formal verification Testing | Fuzz Testing | Gorilla Testing | Gray Box Testing | Glass box Testing |
 | GUI software Testing | Globalization Testing | Hybrid Integration Testing | Integration Testing | Interface Testing | Install/uninstall Testing | Loop Testing |
+| Manual Scripted Testing | Manual-Support Testing | Model-Based Testing | Mutation Testing | Modularity-driven Testin | Non-functional Testing | Negative Testing |
+| Operational Testing | Pair Testing | Passive Testing | Parallel Testing | Path Testing | Penetration Testing | Performance Testing |
+| Qualification Testing | Ramp Testing | Regression Testing | Recovery Testing | Requirements Testing | Security Testing | Sanity Testing |
+| Scenario Testing | Scalability Testing | Statement Testing | Static Testing | Stability Testing | Smoke Testing | Storage Testing | 
+| Stress Testing | Structural Testing | System Testing | System integration Testing | Top Down Integration Testing | Thread Testing | Upgrade Testing |
+| Unit Testing | User Interface Testing | Usability Testing | Volume Testing | Vulnerability Testing | White box Testing | Workflow Testing |
 
