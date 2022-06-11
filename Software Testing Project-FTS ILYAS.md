@@ -148,3 +148,18 @@ System Test is renowned as end-to-end testing, as it verifies the entire softwar
 - Software and Hardware Testing.
 
 ![image](https://user-images.githubusercontent.com/105497741/173182987-16766399-9fec-4469-b99b-ecc4f7fdae19.png)
+
+# What is Software Testing Life Cycle (STLC)?
+- Software Testing Life Cycle (STLC) is a sequence of specific activities conducted during the testing process to ensure software quality goals are met. STLC involves both verification and validation activities. Contrary to popular belief, Software Testing is not just a single/isolate activity, i.e. testing. It consists of a series of activities carried out methodologically to help certify your software product. STLC stands for Software Testing Life Cycle.
+
+# STLC Phases
+### There are following six major phases in every Software Testing Life Cycle Model (STLC Model):
+
+- Requirement Analysis
+- Test Planning
+- Test case development
+- Test Environment setup
+- Test Execution
+- Test Cycle closure
+
+![image](https://user-images.githubusercontent.com/105497741/173185460-84dc72b0-c3f7-4c5e-b799-40b67da9f0d8.png)
