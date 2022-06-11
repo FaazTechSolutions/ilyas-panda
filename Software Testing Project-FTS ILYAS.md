@@ -34,7 +34,7 @@
 
 | Testing Category  | Types of Testing | Testing Category  | Types of Testing | Testing Category  | Types of Testing |
 | ---------------- | ----------------  |  --------------- | ---------------- | --------------- | ---------------- | 
-| Funtional Testing | Automation Test  |  Non-Funtional Test |  Performance Test |   Maintenance Testing | Regression |
+| ***Funtional Testing*** | Automation Test  |  ***Non-Funtional Test*** |  Performance Test |   ***Maintenance Testing*** | Regression |
 |                   | Manual Test     |                     |  Endurance Test  |                         | Maintenance |  
 |                   | Unit Testing   |                      |  Load                                                                                                     
 |                   | Integration Test |                    | volume |
@@ -43,5 +43,6 @@
 |                   | Localization     | 
 |                   | Globalization    | 
 |                   | Interoperability | 
+
 
 
