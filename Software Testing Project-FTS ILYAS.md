@@ -98,3 +98,17 @@ A unit is a single testable part of a software system and tested during the deve
 •	https://www.youtube.com/watch?v=jFQfuIEd8sU
 •	https://www.youtube.com/watch?v=SOhM7UP-C0I
 
+#	Integration Test:
+- Integration testing -- also known as integration and testing (I &T) -- is a type of software testing in which the different units, modules or components of a software application are tested as a combined entity. However, these modules may be coded by different programmer
+- Integration testing is the phase in software testing in which individual software modules are combined and tested as a group. Integration testing is conducted to evaluate the compliance of a system or component with specified functional requirements. It occurs after unit testing and before system testing.
+- The purpose of the integration testing is to expose faults in the interaction between integrated units. Once all the modules have been unit tested, integration testing is performed.
+
+### Some different types of integration testing are 
+	Big-bang, mixed (sandwich), 
+	Risky-hardest, 
+	Top-down, 
+	Bottom-up. 
+
+![image](https://user-images.githubusercontent.com/105497741/173180879-082c925d-523c-4629-b78a-06d153155c9d.png)
+
+
