@@ -55,4 +55,6 @@
 | Code-driven Testing | Compatibility Testing | Comparison Testing | Component Testing | Configuration Testing | Compliance Testing | Condition Coverage Testing |
 | Compliance Testing | Concurrency Testing | Conformance Testing | Context Driven Testing | Conversion Testing | Decision Coverage Testing | Destructive Testing |
 | Dependency Testing | Dynamic Testing | Domain Testing | Error-Handling Testing | End-to-end Testing | Endurance Testing | Exploratory Testing | 
+| Fault injection Testing | Functional Testing | Formal verification Testing | Fuzz Testing | Gorilla Testing | Gray Box Testing | Glass box Testing |
+| GUI software Testing | Globalization Testing | Hybrid Integration Testing | Integration Testing | Interface Testing | Install/uninstall Testing | Loop Testing |
 
