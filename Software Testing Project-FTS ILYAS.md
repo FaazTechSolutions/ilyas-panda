@@ -22,6 +22,9 @@
 
 - https://youtu.be/TDynSmrzpXw
 
+# What is a Software Testing Type? 
+Software Testing Type is a classification of different testing activities into categories, each having, a defined test objective, test strategy, and test deliverables. The goal of having a testing type is to validate the Application Under Test (AUT) for the defined Test Objective.
+
 ### Types of Software key Testing:
 - Testing is Classified in to Three Categorys.
  
@@ -41,7 +44,7 @@
 |                   | Smoke test       |                    | Scalability |
 |                   | UAT Test         |                    | Usability |
 |                   | Localization     |                    | SECURITY TEST |
-|                   | Globalization    | 
+|                   | Globalization    |                    | SYSTEM TEST |
 |                   | Interoperability | 
 
 
@@ -63,4 +66,35 @@
 | Scenario Testing | Scalability Testing | Statement Testing | Static Testing | Stability Testing | Smoke Testing | Storage Testing | 
 | Stress Testing | Structural Testing | System Testing | System integration Testing | Top Down Integration Testing | Thread Testing | Upgrade Testing |
 | Unit Testing | User Interface Testing | Usability Testing | Volume Testing | Vulnerability Testing | White box Testing | Workflow Testing |
+
+ # Important key test must do all the Software Eng:
+  ![image](https://user-images.githubusercontent.com/105497741/173180434-1f2e14bf-80c0-427e-94ed-8334d06a0e1e.png)
+
+### Unit Test:
+Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the software developers and sometimes QA staff.
+
+A unit is a single testable part of a software system and tested during the development phase of the application software. The purpose of unit testing is to test the correctness of isolated code
+#### Advantages of Unit Testing:
+
+- The process becomes agile. This is the main benefit of unit testing
+- Quality of Code. Unit testing significantly improves code quality. ..
+- Find Software Bugs Easily. ...
+- Facilitates Change. ...
+- Provides Documentation. ...
+- Debugging Process. ...
+- Design. ...
+- Reduce Costs.
+
+# What are the unit testing tools?
+![image](https://user-images.githubusercontent.com/105497741/173180670-8f236db9-bed3-48f4-be3d-49a9c98923b0.png)
+### Unit testing tools                             
+•	NUnit. 
+•	JUnit.
+•	TestNG.                                                                                                
+•	Mockito.
+•	PHPUnit.
+
+
+•	https://www.youtube.com/watch?v=jFQfuIEd8sU
+•	https://www.youtube.com/watch?v=SOhM7UP-C0I
 
