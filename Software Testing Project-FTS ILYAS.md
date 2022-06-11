@@ -163,3 +163,58 @@ System Test is renowned as end-to-end testing, as it verifies the entire softwar
 - Test Cycle closure
 
 ![image](https://user-images.githubusercontent.com/105497741/173185460-84dc72b0-c3f7-4c5e-b799-40b67da9f0d8.png)
+https://youtu.be/Dq5IYYqnnGQ?list=UU19i1XD6k88KqHlET8atqFQ
+
+# Requirement Phase Testing:
+Requirement Phase Testing also known as Requirement Analysis in which test team studies the requirements from a testing point of view to identify testable requirements and the QA team may interact with various stakeholders to understand requirements in detail. Requirements could be either functional or non-functional. Automation feasibility for the testing project is also done in this stage.
+
+### Activities in Requirement Phase Testing
+
+- Identify types of tests to be performed.
+- Gather details about testing priorities and focus.
+- Prepare Requirement Traceability Matrix (RTM).
+- Identify test environment details where testing is supposed to be carried out.
+- Automation feasibility analysis (if required).
+
+# Test Planning in STLC
+
+Test Planning in STLC is a phase in which a Senior QA manager determines the test plan strategy along with efforts and cost estimates for the project. Moreover, the resources, test environment, test limitations and the testing schedule are also determined. The Test Plan gets prepared and finalized in the same phase.
+
+### Test Planning Activities
+
+- Preparation of test plan/strategy document for various types of testing
+- Test tool selection
+- Test effort estimation
+- Resource planning and determining roles and responsibilities.
+- Training requirement
+
+# Test Case Development Phase
+
+The Test Case Development Phase involves the creation, verification and rework of test cases & test scripts after the test plan is ready. Initially, the Test data is identified then created and reviewed and then reworked based on the preconditions. Then the QA team starts the development process of test cases for individual units.
+
+### Test Case Development Activities
+
+- Create test cases, automation scripts (if applicable)
+- Review and baseline test cases and scripts
+- Create test data (If Test Environment is available)
+
+# Test Environment Setup:
+
+Test Environment Setup decides the software and hardware conditions under which a work product is tested. It is one of the critical aspects of the testing process and can be done in parallel with the Test Case Development Phase. Test team may not be involved in this activity if the development team provides the test environment. The test team is required to do a readiness check (smoke testing) of the given environment.
+
+### Test Environment Setup Activities
+
+- Understand the required architecture, environment set-up and prepare hardware and software requirement list for the Test Environment.
+- Setup test Environment and test data
+- Perform smoke test on the build.
+
+# Test Execution Phase:
+Test Execution Phase is carried out by the testers in which testing of the software build is done based on test plans and test cases prepared. The process consists of test script execution, test script maintenance and bug reporting. If bugs are reported then it is reverted back to development team for correction and retesting will be performed.
+
+### Test Execution Activities
+
+- Execute tests as per plan
+- Document test results, and log defects for failed cases
+- Map defects to test cases in RTM
+- Retest the Defect fixes
+- Track the defects to closure
