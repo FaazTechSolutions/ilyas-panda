@@ -264,6 +264,8 @@ The following diagram shows the workflow of a Defect Life Cycle.
 # What is a Test Case?
 A Test Case is a set of actions executed to verify a particular feature or functionality of your software application. A Test Case contains test steps, test data, precondition, postcondition developed for specific test scenario to verify any requirement. The test case includes specific variables or conditions, using which a testing engineer can compare expected and actual results to determine whether a software product is functioning as per the requirements of the customer.
 
+https://youtu.be/BBmA5Qp6Ghk
+
 # Best Practice for writing good Test Case Example.
 
 ### Test Cases need to be simple and transparent:
