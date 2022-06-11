@@ -264,4 +264,68 @@ The following diagram shows the workflow of a Defect Life Cycle.
 # What is a Test Case?
 A Test Case is a set of actions executed to verify a particular feature or functionality of your software application. A Test Case contains test steps, test data, precondition, postcondition developed for specific test scenario to verify any requirement. The test case includes specific variables or conditions, using which a testing engineer can compare expected and actual results to determine whether a software product is functioning as per the requirements of the customer.
 
+# Best Practice for writing good Test Case Example.
 
+### Test Cases need to be simple and transparent:
+
+Create test cases that are as simple as possible. They must be clear and concise as the author of the test case may not execute them.
+
+Use assertive language like go to the home page, enter data, click on this and so on. This makes the understanding the test steps easy and tests execution faster.
+
+### Create Test Case with End User in Mind:
+
+The ultimate goal of any software project is to create test cases that meet customer requirements and is easy to use and operate. A tester must create test cases keeping in mind the end user perspective
+
+### Avoid test case repetition.
+
+Do not repeat test cases. If a test case is needed for executing some other test case, call the test case by its test case id in the pre-condition column
+
+### Do not Assume
+
+Do not assume functionality and features of your software application while preparing test case. Stick to the Specification Documents.
+
+### Ensure 100% Coverage
+
+Make sure you write test cases to check all software requirements mentioned in the specification document. Use Traceability Matrix to ensure no functions/conditions is left untested.
+
+### Test Cases must be identifiable.
+
+Name the test case id such that they are identified easily while tracking defects or identifying a software requirement at a later stage.
+
+### Implement Testing Techniques
+
+It’s not possible to check every possible condition in your software application. Software Testing techniques help you select a few test cases with the maximum possibility of finding a defect.
+
+Boundary Value Analysis (BVA): As the name suggests it’s the technique that defines the testing of boundaries for a specified range of values.
+Equivalence Partition (EP): This technique partitions the range into equal parts/groups that tend to have the same behavior.
+State Transition Technique: This method is used when software behavior changes from one state to another following particular action.
+Error Guessing Technique: This is guessing/anticipating the error that may arise while doing manual testing. This is not a formal method and takes advantages of a tester’s experience with the application
+
+### Self-cleaning
+
+The test case you create must return the Test Environment to the pre-test state and should not render the test environment unusable. This is especially true for configuration testing.
+
+### Repeatable and self-standing
+
+The test case should generate the same results every time no matter who tests it
+
+### Peer Review.
+
+After creating test cases, get them reviewed by your colleagues. Your peers can uncover defects in your test case design, which you may easily miss.
+
+# Test Case Management Tools
+
+Test management tools are the automation tools that help to manage and maintain the Test Cases. Main Features of a test case management tool are
+
+- For documenting Test Cases: With tools, you can expedite Test Case creation with use of templates
+- Execute the Test Case and Record the results: Test Case can be executed through the tools and results obtained can be easily recorded.
+- Automate the Defect Tracking: Failed tests are automatically linked to the bug tracker, which in turn can be assigned to the developers and can be tracked by email notifications.
+- Traceability: Requirements, Test cases, Execution of Test cases are all interlinked through the tools, and each case can be traced to each other to check test coverage.
+- Protecting Test Cases: Test cases should be reusable and should be protected from being lost or corrupted due to poor version control. Test Case Management Tools offer features like
+
+- Naming and numbering conventions
+- Versioning
+- Read-only storage
+- Controlled access
+- Off-site backup
+- Popular Test Management tools are: Quality Center and JIRA
