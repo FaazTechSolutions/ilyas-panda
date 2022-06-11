@@ -22,7 +22,7 @@
 
 - https://youtu.be/TDynSmrzpXw
 
-### Types of Software Testing:
+### Types of Software key Testing:
 - Testing is Classified in to Three Categorys.
  
 - Functional Testing
@@ -45,4 +45,14 @@
 |                   | Interoperability | 
 
 
+# Total Types of Testing in Software Field:
+
+| TYPES OF TEST | TYPES OF TEST | TYPES OF TEST | TYPES OF TEST | TYPES OF TEST | TYPES OF TEST | TYPES OF TEST |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Acceptance Testing | Accessibility Testing | Active Testing | Alpha Testing | Assertion Testing | API Testing | Beta Testing |
+| Agile Testing | Age Testing | Ad-hoc Testing | All-pairs Testing | Automated Testing | Basis Path Testing | Backward Compatibility Testing | 
+| Benchmark Testing | Big Bang Integration Testing | Binary Portability Testing | Boundary Value Testing | Branch Testing | Breadth Testing | Black box Testing |
+| Code-driven Testing | Compatibility Testing | Comparison Testing | Component Testing | Configuration Testing | Compliance Testing | Condition Coverage Testing |
+| Compliance Testing | Concurrency Testing | Conformance Testing | Context Driven Testing | Conversion Testing | Decision Coverage Testing | Destructive Testing |
+| Dependency Testing | Dynamic Testing | Domain Testing | Error-Handling Testing | End-to-end Testing | Endurance Testing | Exploratory Testing | 
 
