@@ -218,3 +218,50 @@ Test Execution Phase is carried out by the testers in which testing of the softw
 - Map defects to test cases in RTM
 - Retest the Defect fixes
 - Track the defects to closure
+
+# Test Cycle Closure
+
+Test Cycle Closure phase is completion of test execution which involves several activities like test completion reporting, collection of test completion matrices and test results. Testing team members meet, discuss and analyze testing artifacts to identify strategies that have to be implemented in future, taking lessons from current test cycle. The idea is to remove process bottlenecks for future test cycles.
+
+### Test Cycle Closure Activities
+
+- Evaluate cycle completion criteria based on Time, Test coverage, Cost,Software, Critical Business Objectives, Quality
+- Prepare test metrics based on the above parameters.
+- Document the learning out of the project
+- Prepare Test closure report
+- Qualitative and quantitative reporting of quality of the work product to the customer.
+- Test result analysis to find out the defect distribution by type and severity.
+
+# STLC - Defect Life Cycle:
+Defect Life Cycle, also known as Bug Life Cycle, is the journey of a defect, the cycle which a defect goes through during its lifetime. It varies from organization to organization and also from project to project, as it is governed by the software testing process and also depends upon the tools used.
+
+### Defect Life Cycle – Workflow
+The following diagram shows the workflow of a Defect Life Cycle.
+![image](https://user-images.githubusercontent.com/105497741/173195749-82fe9a0f-d071-46d0-8d38-44eb632333f5.png)
+
+### States of a Defect Life Cycle
+
+***Following are the different states of a Defect Life Cycle***.
+
+- New − Potential defect that is raised and yet to be validated.
+
+- Assigned − Assigned against a development team to be addressed.
+
+- Active − The Defect is being addressed by the developer and investigation is under progress. At this stage, there are two possible outcomes – Deferred or Rejected.
+
+- Test / Fixed / Ready for Retest − The Defect is fixed and ready for testing.
+
+- Verified − The Defect that is retested and the test has been verified by QA.
+
+- Closed − The final state of the defect that can be closed after the QA retesting or can be closed if the defect is duplicate or considered as NOT a defect.
+
+- Reopened − When the defect is NOT fixed, QA reopens/reactivates the defect.
+
+- Deferred − When a defect cannot be addressed in that particular cycle it is deferred to future release.
+
+- Rejected − A defect can be rejected for any of the three reasons – duplicate defect, NOT a Defect, Non Reproducible.
+
+# What is a Test Case?
+A Test Case is a set of actions executed to verify a particular feature or functionality of your software application. A Test Case contains test steps, test data, precondition, postcondition developed for specific test scenario to verify any requirement. The test case includes specific variables or conditions, using which a testing engineer can compare expected and actual results to determine whether a software product is functioning as per the requirements of the customer.
+
+
