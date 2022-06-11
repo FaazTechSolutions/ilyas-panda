@@ -74,7 +74,8 @@ Software Testing Type is a classification of different testing activities into c
 Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually and independently scrutinized for proper operation. This testing methodology is done during the development process by the software developers and sometimes QA staff.
 
 A unit is a single testable part of a software system and tested during the development phase of the application software. The purpose of unit testing is to test the correctness of isolated code
-#### Advantages of Unit Testing:
+
+### Advantages of Unit Testing:
 
 - The process becomes agile. This is the main benefit of unit testing
 - Quality of Code. Unit testing significantly improves code quality. ..
@@ -111,4 +112,39 @@ A unit is a single testable part of a software system and tested during the deve
 
 ![image](https://user-images.githubusercontent.com/105497741/173180879-082c925d-523c-4629-b78a-06d153155c9d.png)
 
+### Other Integration Patterns are: 
+	Collaboration integration, 
+	Backbone integration, 
+	Layer integration, 
+	Client-server integration, 
+	Distributed services integration  
+	High-frequency integration.
 
+https://www.youtube.com/watch?v=8UfQ8quw0Eg
+https://www.youtube.com/watch?v=xZSYh4JxzTY
+
+What is meant by system testing?
+System testing, also referred to as system-level tests or system-integration testing, is the process in which a quality assurance (QA) team evaluates how the various components of an application interact together in the full, integrated system or application.
+
+# What is system testing?
+System Testing is a level of testing that validates the complete and fully integrated software product. The purpose of a system test is to evaluate the end-to-end system specifications. Usually, the software is only one element of a larger computer-based system. Ultimately, the software is interfaced with other software/hardware systems. System Testing is actually a series of different tests whose sole purpose is to exercise the full computer-based system.
+
+### What is the purpose of system test?
+The purpose of system testing is to ensure that a system meets its specification and any non-functional requirements (such as stability and throughput) that have been agreed with its users.
+### What is testing types of system testing?
+System Testing is the level of software testing performed before Acceptance Testing and after Integration Testing. It comes under Black Box testing, i.e., only external working features of the software evaluated during this testing.
+### Importance of System Test:
+System Test is renowned as end-to-end testing, as it verifies the entire software. It provides a comprehensive report on the performance and compliance of the system with the business specified requirement. Also, at this level, the whole system is validated with unit-level performance.
+
+### What are types of system testing?
+
+#### Types of System Testing
+- Regression Testing. 
+- Load Testing. 
+- Functional Testing. 
+- Recovery Testing. 
+- Migration Testing. 
+- Usability Testing. 
+- Software and Hardware Testing.
+
+![image](https://user-images.githubusercontent.com/105497741/173182987-16766399-9fec-4469-b99b-ecc4f7fdae19.png)
