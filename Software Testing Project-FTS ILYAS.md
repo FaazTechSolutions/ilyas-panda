@@ -438,6 +438,80 @@ Test management tools are the automation tools that help to manage and maintain 
 - The setup offers an alternative to pre-requisite tests
 - With other tests, it should be an incorrect business scenario order
 
+# What Is Test Scenario:
+A Test Scenario is defined as any functionality that can be tested. It is also called Test Condition or Test Possibility. As a tester, you should put yourself in the end user’s shoes and figure out the real-world scenarios and use cases of the Application Under Test.
+https://youtu.be/wMN0pCyjQ9E
+
+- Consider a hypothetical situation: There is a vast ocean. You have to travel across the ocean from one seashore to another. For example, from Mumbai, India Seashore to Colombo, Srilanka seashore.
+- The mode of travel you can opt for are:
+- (i) Airways: Take a flight to Colombo
+
+![image](https://user-images.githubusercontent.com/105497741/173227995-02d97244-a996-4f1a-8642-57ab29815ca9.png)
+
+(ii) Waterways: Prefer a ship to travel to Colombo
+
+![image](https://user-images.githubusercontent.com/105497741/173228014-4260721f-2162-4af0-b674-7fd8ea4f4e06.png)
+
+(iii) Railways: Take a train to Srilanka
+
+![image](https://user-images.githubusercontent.com/105497741/173228032-f3084ffb-78c5-430d-b0f0-0c18d67203b2.png)
+
+### Now for the Test Scenarios: 
+Traveling from Mumbai seashore to Colombo seashore is a functionality that is to be tested.
+
+### The Test Scenarios include:
+
+- Traveling by Airways,
+- Traveling by Waterways or
+- Traveling by Railways.
+- These test scenarios will have test cases.
+
+### Test cases that can be written for the above Test Scenarios include:
+
+- Test Scenario: ***Travelling By Airways***
+
+### Test cases can include scenarios like:
+
+- The flight is as per the scheduled time.
+- The flight is not as per the scheduled time.
+- An emergency situation has ensued (heavy rainfall and storm).
+- In the same way, a separate set of test cases can be written for other remaining scenarios.
+
+- Now let’s get to the technological test scenarios.
+
+- Anything that can be tested is a Test Scenario. Thus we can state that any software functionality that is under test can be divided into multiple smaller - functionalities and can be termed a ‘Test Scenario’.
+
+- Before delivering any product to the client, the quality of the product needs to be appraised and evaluated. Test scenario aids in assessing the functional quality of a software application that is in conformance with its business requirements.
+
+- A tester scenario is a process wherein the tester tests a software application from an end-user perspective. The performance and quality of the software application are thoroughly assessed before implementation in the production environment.
+
+# Importance Of Test Scenario:
+- One Test Scenario can have multiple ‘Test Cases’. It can be figured as a big panoramic image and test cases are the small parts that are important to complete the panorama.
+- It is a single line statement and test cases comprise step-wise description to complete the purpose of the test scenario statement.
+
+# Example: 
+
+Test Scenario: ***Make the payment for the cab service availed***.
+
+### This will have multiple test cases as stated below:
+
+(i) Payment method to be used: PayPal, Paytm, Credit/Debit Card.
+(ii) The payment done is successful.
+(iii) Payment done is unsuccessful.
+(iv) The payment process aborted in between.
+(v) Not able to access payment methods.
+(vi) The application breaks down in between.
+
+- Test Scenarios thus assist in evaluating the software application as per the real-world situations.
+- Test scenarios when determined, help in bifurcating the scope of testing.
+- This bifurcation is termed prioritization which helps in determining the important functionalities of the software application.
+- Prioritized testing of the functionalities, assists to a great extent in the successful implementation of the software application.
+- As the test scenarios get prioritized, the most important functionalities can be easily identified and tested on priority. This ensures that the majority of the - - - crucial functionalities are working fine and defects related to it are duly captured and rectified.
+- Test scenarios determine the business process flow of the software and thus end-to-end testing of the application is possible.
+
+# Difference Between Test Scenario And Test Case
+
+
 # Defect Report in Software Testing:
 
 ### Defect:
@@ -552,3 +626,4 @@ Estimated time is basically value expressed in hours of work required to complet
 Actual time is basically value expressed in hours of work taken by developers to complete resolution i.e. actual time taken to fix or resolve defect.
 ### Root Cause Description :
 This field explains what is the main cause of defect to arise. It explains why defect appeared and raised.
+
