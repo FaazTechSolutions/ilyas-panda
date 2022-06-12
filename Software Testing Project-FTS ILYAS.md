@@ -357,6 +357,8 @@ A Test Case is a set of actions executed to verify a particular feature or funct
 
 https://youtu.be/BBmA5Qp6Ghk
 
+https://www.youtube.com/watch?v=g0PrXoWKM2Y
+
 # Best Practice for writing good Test Case Example.
 
 ### Test Cases need to be simple and transparent:
