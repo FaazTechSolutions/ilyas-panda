@@ -509,8 +509,56 @@ Test Scenario: ***Make the payment for the cab service availed***.
 - As the test scenarios get prioritized, the most important functionalities can be easily identified and tested on priority. This ensures that the majority of the - - - crucial functionalities are working fine and defects related to it are duly captured and rectified.
 - Test scenarios determine the business process flow of the software and thus end-to-end testing of the application is possible.
 
-# Difference Between Test Scenario And Test Case
+# Difference Between Test Scenario And Test Case:
 
+![image](https://user-images.githubusercontent.com/105497741/173228810-766dc0f0-b156-4201-86fb-cc99ddc7b335.png)
+
+
+| Test Scenario | Test Cases | 
+| ------------- | ---------- | 
+| Test scenario is a concept | Test cases are the solutions to verify that concept |
+| Test Scenario is a high level functionality | Test cases are detailed procedure to test the high level functionality |
+| Test Scenarios are derived from Requirements/ User Stories | Test cases are derived from Test Scenarios |
+| Test scenario is ‘What functionality is to be tested | Test Cases are ‘ How to test the functionality |
+| Test Scenarios have multiple test cases | Test case may or may not be associated to multiple Test scenarios |
+| Single test scenarios are never repeatable | Single test case may be used for multiple times in different scenarios |
+| Brief documentations required | Detailed documentation is required |
+| Brainstorming sessions are required to finalize a Test Scenario | Detailed technical knowledge of the software application is required |
+| Time saver as minute details is not required | Time consuming as every minute detail needs to be taken care of |
+| Maintenance cost is low as resources required are low | Maintenance cost is high as resources required are high |
+
+# Why Is Test Scenarios Indispensable?
+
+### Test scenarios are derived from requirements or user stories.
+
+- Take the example of a test scenario for Cab booking.
+- The scenarios could be cab booking options, payment methods, GPS tracking, road map displayed correctly or not, cab and driver details displayed correctly or not, - etc all are listed in the test scenario template.
+- Now suppose the test scenario is to check whether the location services are turned on, if not turned on, display the message ‘Turn on-location services. This - scenario is missed and not listed in the test scenarios template.
+- The ‘Location service’ scenario gives rise to other test scenarios related to it.
+
+# Why create Test Scenarios?
+### Test Scenarios are created for the following reasons,
+
+- Creating Test Scenarios ensures complete Test Coverage
+0- Test Scenarios can be approved by various stakeholders like Business Analyst, Developers, Customers to ensure the Application Under Test is thoroughly tested. It ensures that the software is working for the most common use cases.
+- They serve as a quick tool to determine the testing work effort and accordingly create a proposal for the client or organize the workforce.
+- They help determine the most important end-to-end transactions or the real use of the software applications.
+- For studying the end-to-end functioning of the program, Test Scenario is critical.
+
+# How to Write Test Scenarios
+
+### As a tester, you can follow these five steps to create Test Scenarios-
+
+### Step 1: 
+- Read the Requirement Documents like BRS, SRS, FRS, of the System Under Test (SUT).  You could also refer uses cases, books, manuals, etc. of the application to be tested.
+### Step 2: 
+- For each requirement, figure out possible users actions and objectives. Determine the technical aspects of the requirement. Ascertain possible scenarios of system abuse and evaluate users with hacker’s mindset.
+### Step 3: 
+- After reading the Requirements Document and doing your due Analysis, list out different test scenarios that verify each feature of the software.
+### Step 4: 
+- Once you have listed all possible Test Scenarios, a Traceability Matrix is created to verify that each & every requirement has a corresponding Test Scenario
+### Step 5: 
+- The scenarios created are reviewed by your supervisor. Later, they are also reviewed by other Stakeholders in the project.
 
 # Defect Report in Software Testing:
 
