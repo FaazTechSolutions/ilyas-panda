@@ -331,3 +331,16 @@ Test management tools are the automation tools that help to manage and maintain 
 - Controlled access
 - Off-site backup
 - Popular Test Management tools are: Quality Center and JIRA
+
+# While drafting a test case to include the following information
+
+- The description of what requirement is being tested
+- The explanation of how the system will be tested
+- The test setup like a version of an application under test, software, data files, operating system, hardware, security access, physical or logical date, time of day, - prerequisites such as other tests and any other setup information pertinent to the requirements being tested
+- Inputs and outputs or actions and expected results
+- Any proofs or attachments
+- Use active case language
+- Test Case should not be more than 15 steps
+- An automated test script is commented with inputs, purpose and expected results
+- The setup offers an alternative to pre-requisite tests
+- With other tests, it should be an incorrect business scenario order
