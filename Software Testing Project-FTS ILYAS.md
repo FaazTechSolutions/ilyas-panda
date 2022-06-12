@@ -516,3 +516,38 @@ The platform you used, operating system and version. And other information which
 - Various Fields in a Defect Triage Report 
 
 ![image](https://user-images.githubusercontent.com/105497741/173223448-63459e25-1a9e-4d16-92a5-ead090a5c68a.png)
+
+### Defect ID :
+Defect ID is an identity document that is generally used to verify or identify defects. Defect ID is basically a unique identification number that is given to each defect to differentiate them from each other.
+### Defect Description :
+Defect description generally includes detailed description of defect. It also includes information regarding module in which defect was identified. It also includes defect causes and how it affects working of the system.
+### Creation Date :
+Creation date is the date on which defect was identified or found or raised. On creation date, defect was reported for first time.
+### Creator :
+Creator is the tester who has raised or identified defects. Creator might include name or ID of tester who has reported defect.
+### Severity :
+Severity basically explains impact of defect on system or application. It includes how defect affects system. It simply measures degree of severity i.e., how severe defect is.
+### Priority :
+Priority is basically related to resolving or fixing defect. Priority code simply indicates effects of particular defect on system. Priority code can be high, medium, or low.
+- High –
+If priority code is high, that means defect is needed to resolved or fixed immediately. Without resolving this particular defect, project cannot be successful.
+- Medium –
+If priority code is medium, that means particular defect is not needed to resolved or fixed immediately. It can be resolved later as it doesn’t require any immediate action. Defect causes less impact on the system.
+- Low –
+If priority code is low, that means defect is not needed to resolved or fixed. It may or may not be resolved. Defect causes very low and negligible impact on system.
+### Status :
+This indicates present status of defect i.e., whether defect is new, or is in progress, or completed.
+### Assignment Date :
+Assignment date is the date on which defect was given further for fixing or resolving it. On this date, defect was assigned to particular team or person for resolution.
+### Assigned To/Developer :
+Developer is the tester who has fixed or resolved defects. Developer might include name or ID of tester who has fixed defect.
+### Resolution :
+Resolution generally includes detailed description of how defect is being resolved. It includes what all things are done to resolve defect.
+### Date of Resolution :
+Date of resolution is the date on which resolution of defect is to be done i.e. date on which defect will be resolved or fixed completely by developers.
+### Estimated Time :
+Estimated time is basically value expressed in hours of work required to complete resolution i.e., estimated time required to fix or resolve defect.
+### Actual Time :
+Actual time is basically value expressed in hours of work taken by developers to complete resolution i.e. actual time taken to fix or resolve defect.
+### Root Cause Description :
+This field explains what is the main cause of defect to arise. It explains why defect appeared and raised.
