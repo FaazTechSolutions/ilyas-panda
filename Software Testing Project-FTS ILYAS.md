@@ -126,17 +126,17 @@ https://www.youtube.com/watch?v=xZSYh4JxzTY
 What is meant by system testing?
 System testing, also referred to as system-level tests or system-integration testing, is the process in which a quality assurance (QA) team evaluates how the various components of an application interact together in the full, integrated system or application.
 
-# What is system testing?
+# What is System Testing?
 System Testing is a level of testing that validates the complete and fully integrated software product. The purpose of a system test is to evaluate the end-to-end system specifications. Usually, the software is only one element of a larger computer-based system. Ultimately, the software is interfaced with other software/hardware systems. System Testing is actually a series of different tests whose sole purpose is to exercise the full computer-based system.
 
-### What is the purpose of system test?
+### What is The purpose of System Test?
 The purpose of system testing is to ensure that a system meets its specification and any non-functional requirements (such as stability and throughput) that have been agreed with its users.
-### What is testing types of system testing?
+### What is Testing Types of System Testing?
 System Testing is the level of software testing performed before Acceptance Testing and after Integration Testing. It comes under Black Box testing, i.e., only external working features of the software evaluated during this testing.
 ### Importance of System Test:
 System Test is renowned as end-to-end testing, as it verifies the entire software. It provides a comprehensive report on the performance and compliance of the system with the business specified requirement. Also, at this level, the whole system is validated with unit-level performance.
 
-### What are types of system testing?
+### What are Types of System Testing?
 
 #### Types of System Testing
 - Regression Testing. 
@@ -332,10 +332,10 @@ Test management tools are the automation tools that help to manage and maintain 
 - Off-site backup
 - Popular Test Management tools are: Quality Center and JIRA
 
-# While drafting a test case to include the following information
+# While Drafting a Test Case to Include the following Information
 
-- The description of what requirement is being tested
-- The explanation of how the system will be tested
+- The Description of what requirement is being tested
+- The Explanation of how the system will be tested
 - The test setup like a version of an application under test, software, data files, operating system, hardware, security access, physical or logical date, time of day, - prerequisites such as other tests and any other setup information pertinent to the requirements being tested
 - Inputs and outputs or actions and expected results
 - Any proofs or attachments
