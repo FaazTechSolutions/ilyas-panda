@@ -149,6 +149,99 @@ System Test is renowned as end-to-end testing, as it verifies the entire softwar
 
 ![image](https://user-images.githubusercontent.com/105497741/173182987-16766399-9fec-4469-b99b-ecc4f7fdae19.png)
 
+ # WHAT IS ACCEPTANCE TEST: 
+ - Acceptance Testing is a method of software testing where a system is tested for acceptability. The major aim of this test is to evaluate the compliance of the system with the business requirements and assess whether it is acceptable for delivery or not.
+ 
+ - It is a formal testing according to user needs, requirements and business processes conducted to determine whether a system satisfies the acceptance criteria or not and to enable the users, customers or other authorized entities to determine whether to accept the system or not.
+
+- Acceptance Testing is the last phase of software testing performed after System Testing and before making the system available for actual use.
+
+# Types of Acceptance Testing:
+
+### User Acceptance Testing (UAT):
+- User acceptance testing is used to determine whether the product is working for the user correctly. Specific requirements which are quite often used by the customers are primarily picked for the testing purpose. This is also termed as End-User Testing.
+
+### Business Acceptance Testing (BAT):
+- BAT is used to determine whether the product meets the business goals and purposes or not. 
+- BAT mainly focuses on business profits which are quite challenging due to the changing market conditions and new technologies so that the current implementation may have to being changed which result in extra budgets.
+
+### Contract Acceptance Testing (CAT):
+- CAT is a contract which specifies that once the product goes live, within a predetermined period, 
+- the acceptance test must be performed and it should pass all the acceptance use cases.
+- Here is a contract termed as Service Level Agreement (SLA), which includes the terms where the payment will be made only if the Product services are in-line with all the requirements, which means the contract is fulfilled.
+- Sometimes, this contract happens before the product goes live. 
+- There should be a well defined contract in terms of the period of testing, areas of testing, conditions on issues encountered at later stages, payments, etc.
+
+### Regulations Acceptance Testing (RAT):
+- RAT is used to determine whether the product violates the rules and regulations that are defined by the government of the country where it is being released. This may be unintentional but will impact negatively on the business.
+- Generally, the product or application that is to be released in the market, has to go under RAT, as different countries or regions have different rules and regulations defined by its governing bodies. 
+- If any rules and regulations are violated for any country then that country or the specific region then the product will not be released in that country or region. 
+- If the product is released even though there is a violation then only the vendors of the product will be directly responsible.
+
+### Operational Acceptance Testing (OAT):
+- OAT is used to determine the operational readiness of the product and is a non-functional testing. It mainly includes testing of recovery, compatibility, maintainability, reliability etc.
+- OAT assures the stability of the product before it is released to the production.
+
+### Alpha Testing:
+- Alpha testing is used to determine the product in the development testing environment by a specialized testers team usually called alpha testers.
+
+### Beta Testing:
+- Beta testing is used to assess the product by exposing it to the real end-users, usually called beta testers in their environment. Feedback is collected from the users and the defects are fixed. Also, this helps in enhancing the product to give a rich user experience.
+
+# USE OF Acceptance Testing:
+
+- To find the defects missed during the functional testing phase.
+- How well the product is developed.
+- A product is what actually the customers need.
+- Feedbacks help in improving the product performance and user experience.
+- Minimize or eliminate the issues arising from the production.
+
+# What is User Acceptance Testing (UAT)? with Examples:
+### What is UAT?
+- User Acceptance Testing (UAT) is a type of testing performed by the end user or the client to verify/accept the software system before moving the software application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
+
+### Purpose of UAT:
+- The main Purpose of UAT is to validate end to end business flow. It does not focus on cosmetic errors, spelling mistakes or system testing. User Acceptance Testing is carried out in a separate testing environment with production-like data setup. It is kind of black box testing where two or more end-users will be involved.
+
+### Who Performs UAT?
+- Client
+- End users
+
+![image](https://user-images.githubusercontent.com/105497741/173222110-ab6c7e7f-4712-415e-a00e-e633095a3162.png)
+### In VModel, User acceptance testing corresponds to the requirement phase of the Software Development life cycle(SDLC).
+![image](https://user-images.githubusercontent.com/105497741/173222213-09804110-2cd1-4e4b-89bd-fd7f61015f74.png)
+
+# Prerequisites of User Acceptance Testing:
+### Following are the entry criteria for User Acceptance Testing:
+
+- Business Requirements must be available.
+- Application Code should be fully developed
+- Unit Testing, Integration Testing & System Testing should be completed
+- No Showstoppers, High, Medium defects in System Integration Test Phase –
+- Only Cosmetic error is acceptable before UAT
+- Regression Testing should be completed with no major defects
+- All the reported defects should be fixed and tested before UAT
+- Traceability matrix for all testing should be completed
+- UAT Environment must be ready
+- Sign off mail or communication from System Testing Team that the system is ready for UAT execution
+
+# Best Practices:
+### Following points needs to be considered to make UAT Success:
+
+- Prepare UAT plan early in the project life cycle
+- Prepare Checklist before the UAT starts
+- Conduct Pre-UAT session during System Testing phase itself
+- Set the expectation and define the scope of UAT clearly
+- Test End to End business flow and avoid system tests
+- Test the system or application with real-world scenarios and data
+- Think as an Unknown user to the system
+- Perform Usability Testing
+- Conduct Feedback session and meeting before moving to production
+### VIDEO ABOUT UAT TEST:
+https://www.youtube.com/watch?v=lCMBtr4wfRc
+
+
+
 # What is Software Testing Life Cycle (STLC)?
 - Software Testing Life Cycle (STLC) is a sequence of specific activities conducted during the testing process to ensure software quality goals are met. STLC involves both verification and validation activities. Contrary to popular belief, Software Testing is not just a single/isolate activity, i.e. testing. It consists of a series of activities carried out methodologically to help certify your software product. STLC stands for Software Testing Life Cycle.
 
