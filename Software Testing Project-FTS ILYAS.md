@@ -240,8 +240,6 @@ System Test is renowned as end-to-end testing, as it verifies the entire softwar
 ### VIDEO ABOUT UAT TEST:
 https://www.youtube.com/watch?v=lCMBtr4wfRc
 
-
-
 # What is Software Testing Life Cycle (STLC)?
 - Software Testing Life Cycle (STLC) is a sequence of specific activities conducted during the testing process to ensure software quality goals are met. STLC involves both verification and validation activities. Contrary to popular belief, Software Testing is not just a single/isolate activity, i.e. testing. It consists of a series of activities carried out methodologically to help certify your software product. STLC stands for Software Testing Life Cycle.
 
@@ -437,3 +435,84 @@ Test management tools are the automation tools that help to manage and maintain 
 - An automated test script is commented with inputs, purpose and expected results
 - The setup offers an alternative to pre-requisite tests
 - With other tests, it should be an incorrect business scenario order
+
+# Defect Report in Software Testing:
+
+### Defect:
+- A defect in a software product is also known as a bug, error or fault which makes the software produce an unexpected result as per the software requirements. 
+- ***For example***; - incorrect data, - system hangs, - unexpected errors, - missing or incorrect requirements.  
+
+### Defect Report:
+- A defect report is a document that has concise details about what defects are identified, what action steps make the defects show up, and what are the expected results instead of the application showing error (defect) while taking particular step by step actions.  
+
+- Defect reports are usually created by the Quality Assurance team and also by the end-users (customers). 
+- Often customers detect more defects and report them to the support team of the software development since the majority of the customers curiously tries out every feature in the application. Now, you know what actually defect and defect reports are.  
+
+### So let’s understand, why do they create defect reports ? What do they do with them?  
+
+- The reason behind why defect reports are created is to help developers to find out the defects easily and fix them up. 
+- A defect report is usually assigned by QA to a developer who then reads the report and reproduces the defects on the software product by following the action steps mentioned in the report. 
+- After that, the developer fixes the defects in order to get the desired outcome specified in the report.
+
+- That is why the defect reports are important and created carefully. 
+- Defect reports should be short, organized, straight to the point and covers all the information that the developer needs to detect the actual defects in the report by doing what and how the one written the defect report detected the defects.  
+
+It is usual for QA teams to get defect reports from the clients that are either too short to reproduce and rectify or too long to understand what actually went wrong.  
+### For example,  
+
+***Defect Description*** : The application doesn’t work as expected.  
+
+- Now, how in the world does a developer or QA know what went wrong which doesn’t meet the client expectation?  
+
+- In such a case, the developer report to the QA that he couldn’t find any problem or he may have fixed any other error but not the actual one client detected. So that’s why it’s really important to create a concise defect report to get bugs fixed.  
+
+- All right. You have a pretty good idea about what, whys and how’s of a defect report. So it’s time for what is inside the report.  
+
+### A typical defect report contains the information in an xls Sheet as follows.  
+
+1. Defect ID :
+Nothing but a serial number of defects in the report.  
+
+2. Defect Description :
+A short and clear description of the defect detected.  
+
+3. Action Steps :
+What the client or QA did in an application that results in the defect. Step by step actions they took.  
+
+4. Expected Result :
+What results are expected as per the requirements when performing the action steps mentioned.  
+
+5. Actual Result :
+What results are actually showing up when performing the action steps.  
+
+6. Severity :
+Trivial (A small bug that doesn’t affect the software product usage).  
+
+- Low – 
+A small bug that needs to be fixed and again it’s not going to affect the performance of the software.
+- Medium – 
+This bug does affect the performance. Such as being an obstacle to do a certain action. Yet there is another way to do the same thing.
+- High – 
+It highly impacts the software though there is a way around to successfully do what the bug cease to do.
+Critical – 
+These bugs heavily impacts the performance of the application. Like crashing the system, freezes the system or requires the system to restart for working properly.
+ 7. Attachments :
+A sequence of screenshots of performing the step by step actions and getting the unexpected result. One can also attach a short screen recording of performing the steps and encountering defects. Short videos help developers and/or QA to understand the bugs easily and quickly.  
+
+8. Additional information :
+The platform you used, operating system and version. And other information which describes the defects in detail for assisting the developer understand the problem and fixing the code for getting desired results.  
+
+# Defect Triage Report Format:
+### Defect Triage Meeting:
+- Defect Triage Meeting is generally called to resolve and fix defect. 
+- Different participants i.e. ***Test Lead, Project Manager, Technical Lead, and Development Team Lead are important participants of meeting. Without them, no decision can be taken and meeting cannot be completed. 
+- In three different phases i.e. pre-meeting, during meeting, and post-meeting, defect triage meeting is completed.
+
+- After the meeting, a triage report is generated that contains full descriptions and detail about each of everything that happened during meeting. 
+- This triage report contains all information starting from identification of defect until root cause of defect. 
+- This report is shared with all participants of meeting
+
+### Sample report format is shown below :
+- Various Fields in a Defect Triage Report 
+
+![image](https://user-images.githubusercontent.com/105497741/173223448-63459e25-1a9e-4d16-92a5-ead090a5c68a.png)
