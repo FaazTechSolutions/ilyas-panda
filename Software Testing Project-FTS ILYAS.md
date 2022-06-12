@@ -505,9 +505,8 @@ The platform you used, operating system and version. And other information which
 # Defect Triage Report Format:
 ### Defect Triage Meeting:
 - Defect Triage Meeting is generally called to resolve and fix defect. 
-- Different participants i.e. ***Test Lead, Project Manager, Technical Lead, and Development Team Lead are important participants of meeting. Without them, no decision can be taken and meeting cannot be completed. 
+- Different participants i.e. ***Test Lead, Project Manager, Technical Lead, and Development Team Lead are important participants of meeting. Without them, no decision can be taken and meeting cannot be completed***. 
 - In three different phases i.e. pre-meeting, during meeting, and post-meeting, defect triage meeting is completed.
-
 - After the meeting, a triage report is generated that contains full descriptions and detail about each of everything that happened during meeting. 
 - This triage report contains all information starting from identification of defect until root cause of defect. 
 - This report is shared with all participants of meeting
