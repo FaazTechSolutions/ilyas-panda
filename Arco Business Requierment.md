@@ -1,125 +1,111 @@
-# Create Customer:
+# ```Create Customer```
 
-If customer wants to take employee(labour) from ARCO for house keeping work (or) car driving, customer should be registered first in ARCO by the sales person.
+- If customer wants to take employee(labour) from ARCO for house keeping work (or) car driving, customer should be registered first in ARCO by the sales person.
 
-(A). Actions :
-Print:
+#### (A). Actions :
+- Print:
 
 Print button helps sales user to print the customer details.
 
-Message Send List:
+#### Message Send List:
 
 All customer send messages are listed here
 
-Verify Mobile:
+#### Verify Mobile:
 
 
-First process is to create contract for this customer and to verify his mobile number
+- First process is to create contract for this customer and to verify his mobile number
 
-Verification code(OTP) sent to customer for mobile verification
-Enter the OTP in the opened popup and verify the mobile number
-Successful message displayed to user if OTP is correct
+- Verification code(OTP) sent to customer for mobile verification
+- Enter the OTP in the opened popup and verify the mobile number
+- Successful message displayed to user if OTP is correct
 
-Verify Customer:
+#### Verify Customer:
+
+- Third process is to "Verify Customer" using following Check list
+
+- Verify Details
+- Verify Attachments
 
 
-Third process is to "Verify Customer" using following Check list
+#### Once customer verified "verify customer" button hidden to sales user and this confirms customer is verified
+- Action
+- Refresh
+- Back
 
-Verify Details
-Verify Attachments
+### In Arco Customer information are separated into customer details page and finance page
 
+# ```Customer Details``` :
 
-Once customer verified "verify customer" button hidden to sales user and this confirms customer is verified
-Action
-Refresh
-Back
-
-In Arco Customer information are separated into customer details page and finance page
-
-Customer Details :
-
-Customer details are further classified into following sections and the sales user have the access
+- Customer details are further classified into following sections and the sales user have the access
 to create following respective section details.
 
-Identification Section
+#Identification Section
 
+- Second process is to create contract for this customer and to verify his email
 
-Second process is to create contract for this customer and to verify his email
+- Verification code(OTP) sent to customer e-mail
+- Enter the OTP in the opened popup and verify the e-mail
+- Successful message displayed to user if OTP is correct
 
-Verification code(OTP) sent to customer e-mail
-Enter the OTP in the opened popup and verify the e-mail
-Successful message displayed to user if OTP is correct
+| work steps | Action |
+| ---------- | ------ |
+| Work Info Section | ok |
+| Profile Picture Section | ok|
+| Family Info Section | ok |
+| Muqeem Info Section | ok |
+| General Section | ok |
+| Location Section | ok |
+| Contact Section | ok |
+| Affiliate Need to check | ok |
 
-
-Work Info Section
-Profile Picture Section
-Family Info Section
-Muqeem Info Section
-General Section
-Location Section
-Contact Section
-Affiliate -- Need to check
 
 Sales users have the option to create following fields and update the following fields
 
 Mobile Number
 Email
 
-Sales users have the option to create "Bank" details and update the "Bank" details
+- Sales users have the option to create "Bank" details and update the "Bank" details
 
-Active Bank
-My Bank
-
-
-Finance :
-
-Once customer details saved, following finace section available to sales users
-
-Customer Balance
-Customer Invoice
-Payment Details
-Advance Payment
-Customer Refund
-Wallet Transaction
+***Active Bank*** 
+***My Bank***
 
 
-Note : Verification
+# ```Finance``` :
+
+### Once customer details saved, following finace section available to sales users
+
+- Customer Balance
+- Customer Invoice
+- Payment Details
+- Advance Payment
+- Customer Refund
+- Wallet Transaction
 
 
-First process to create contract for this customer is to verify his/her "mobile number"
+# ```Note : Verification```
+
+### First process to create contract for this customer is to verify his/her "mobile number"
+
+- Verification code(OTP) sent to customer for mobile verification
+- Enter the OTP in the opened popup and verify the mobile number
+- Successful message displayed to user
+
+### Second process is to create contract for this customer is to verify his Email
+
+- Verification code(OTP) sent to customer e-mail
+- Enter the OTP in the opened popup and verify the e-mail
+- Successful message displayed to user if OTP is correct
+
+### Third process is to "Verify Customer" using following check list
+
+- Verify Details
+- Verify Attachments
+- Once customer verified "verify customer" button hidden to sales user and this confirms customer is verified.
 
 
-Verification code(OTP) sent to customer for mobile verification
+# ```Create Per Day Contract``` 
 
-
-Enter the OTP in the opened popup and verify the mobile number
-
-
-Successful message displayed to user
-
-
-Second process is to create contract for this customer is to verify his Email
-
-
-Verification code(OTP) sent to customer e-mail
-
-
-Enter the OTP in the opened popup and verify the e-mail
-
-
-Successful message displayed to user if OTP is correct
-
-
-Third process is to "Verify Customer" using following check list
-
-
-
-Verify Details
-Verify Attachments
-2.Once customer verified "verify customer" button hidden to sales user and this confirms customer is verified.
-
-
-Create Per Day Contract :
 
 Once customer mobile number, customer email and verify customer are verfied, Action button enabled to sales user,
 sales user can create perday contract
