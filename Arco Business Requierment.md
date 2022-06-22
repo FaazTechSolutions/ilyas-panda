@@ -35,7 +35,7 @@ All customer send messages are listed here
 
 ### In Arco Customer information are separated into customer details page and finance page
 
-# ```Customer Details``` :
+# ```Customer Details``` 
 
 - Customer details are further classified into following sections and the sales user have the access
 to create following respective section details.
@@ -71,7 +71,7 @@ Email
 ***My Bank***
 
 
-# ```Finance``` :
+# ```Finance``` 
 
 ### Once customer details saved, following finace section available to sales users
 
@@ -106,131 +106,117 @@ Email
 
 # ```Create Per Day Contract``` 
 
+- Once customer mobile number, 
+- customer email and verify customer are verfied, 
+- Action button enabled to sales user,
+- sales user can create perday contract
 
-Once customer mobile number, customer email and verify customer are verfied, Action button enabled to sales user,
-sales user can create perday contract
-Job Specification :
+# ```Job Specification```
 
-Private Driver
-House Work - Male
-House Work - Female
+- Private Driver
+- House Work - Male
+- House Work - Female
 
-Nationality :
+# ```Nationality```
 
-All nationality displayed in drop down
+- All nationality displayed in drop down
 
-Package Days :
+# ```Package Days```
 
-package days maximum is 180 days
-Based on nationality minimum package days may differ
+- package days maximum is 180 days
+- Based on nationality minimum package days may differ
 
-Promo Code :
-Document Branch :
+### Promo Code :
+### Document Branch :
 
-Branch location where customers can submit their respective documents.
+- Branch location where customers can submit their respective documents.
 
-Service Location :
+# ```Service Location``` 
 
-Save the location using map in "Customer Details Page"
+- Save the location using map in "Customer Details Page"
 
-Create Contract Button : Click on create contract button to create the contract.
+### Create Contract Button : Click on create contract button to create the contract.
 
-Contract Details Page :
+### Contract Details Page :
 
-Contract created for the customer with the following details
+- Contract created for the customer with the following details
 (1). Contract Number : IRM000XXXX
 (2). Now Contract Status is "New"
 
-(A). Actions :
-Payment -
+***(A). Actions :****
+- Payment -
 
-Send To POS (Point of sales) :
-Customer will pay the amount through card swipe machine in branch location, card swipe machine
-integrated with our ERP system
-POS Manual Payment :
+# ```` Send To POS (Point of sales)```` 
+- Customer will pay the amount through card swipe machine in branch location, 
+- card swipe machine integrated with our ERP system
 
+### POS Manual Payment :
 
-Pos manual payment helps sales user to get the contract payment from the customer.
-Choose file attachement helps sales user to attach the receipt
-After clicking save button, payment made
-Now Contract Status changed to "Waiting For Selection"
+- Pos manual payment helps sales user to get the contract payment from the customer.
+- Choose file attachement helps sales user to attach the receipt
+- After clicking save button, payment made
+- Now Contract Status changed to "Waiting For Selection"
 
+### Pay From Balance-0 :
+- pay from balance option helps sales user to get the contract payment from the customer
+- Send To Sadad Bill -- Need to check
 
-Pay From Balance-0 :
-pay from balance option helps sales user to get the contract payment from the customer
-Send To Sadad Bill -- Need to check
+- Print New -
+- Request -
+- Attach -
+- Refresh -
+- Back -
 
-Print New -
-Request -
-Attach -
-Refresh -
-Back -
+# ```(B). Contract details for customer``` 
 
-(B). Contract details for customer :
-Contract : Contract details for customers further classified into following sections
+### Contract 
 
+- Contract details for customers further classified into following sections
 
-Contract section
-Branch : Sales users have the option to change branch
-Change Location : Sales users have the option to change customer branch location, this branch will be contact branch, any document related to the employee will be delivered from here.
-Send Location : Sales users have the option to send employee lodge, branch and both location to customer
+```Contract section```
+**Branch : Sales users have the option to change branch
+**Change Location : Sales users have the option to change customer branch location, this branch will be contact branch, any document related to the employee will be delivered from here.
 
+### Send Location : Sales users have the option to send employee lodge, branch and both location to customer
 
-Customer section
+- Customer section
+- Package section
+- Employee section
+- Location section
+- Contract Delegate section
+- Contract Extension Agreement section
+- Contract Task section
+- Comments section
 
+# ```Finance```
 
-Package section
+- Advance Payment
+- Payment Details
+- Request Pending for Payment
+- Customer Invoice
+- Contract Transaction
+- Discount
+- Financial Status
+- Credit Note
+- Credit / Debit Pending Approval
+- Customer Refund
+- Wallet Transaction
 
+# ```(C). History & Request Sections```
 
-Employee section
-
-
-Location section
-
-
-Contract Delegate section
-
-
-Contract Extension Agreement section
-
-
-Contract Task section
-
-
-Comments section
-
-
-Finance
-
-Advance Payment
-Payment Details
-Request Pending for Payment
-Customer Invoice
-Contract Transaction
-Discount
-Financial Status
-Credit Note
-Credit / Debit Pending Approval
-Customer Refund
-Wallet Transaction
+- Contract Package History
+- Contract Status History
+- Employee History
+- Delivery Request
+- Customer Request
+- Pending Request
+- Escape Request
+- Sadad Pending Request
 
 
-(C). History & Request Sections :
+# ```Per Day Contract -- After payment made by customer, employee assign to customer```
 
-Contract Package History
-Contract Status History
-Employee History
-Delivery Request
-Customer Request
-Pending Request
-Escape Request
-Sadad Pending Request
-
-
-Per Day Contract -- After payment made by customer, employee assign to customer
-
-
-(A). Action : Employee Assign :
+### (A). Action : Employee Assign :
 
 1. Click on employee assign button to assign the employee
 2. Click on select employee and assign the same.
@@ -238,7 +224,8 @@ Per Day Contract -- After payment made by customer, employee assign to customer
 4. Sales user will get "Created Successfull message"
 5. Now contract status changed to "Document Verification"
 
-Document Verification Stage :  
+### Document Verification Stage :  
+
 1. Click on "Attachment Button" to upload the contract copy   
 2. Click on "Verify Button" and click on "verify" button inside the popup to verify  
 
@@ -247,7 +234,7 @@ if you get message like "Current User Branch Not Found"
 - Click on Role Master in security and assign sales user   
 - Click on Organization and select "Branches" and Assign sales user  
 
-        Note :
+       ### Note :
         ------
         (1). If the user is not sales user, admin should assign this user to "Sales User Role"
         (1). One Sales user can not handle multiple ARCO branches, only one sales user can handle one ARCO branch
@@ -261,54 +248,59 @@ if you get message like "Current User Branch Not Found"
 4.Now contract status changed to "Waiting For Delivery"
 
 
-
-(B). ACTION - DELIVERY
+# ```(B). ACTION - DELIVERY```
 
 Click on "Delivery" button, popup will open and show following TABS
 
-TAB 1 : PICKUP FROM LODGE
+### TAB 1 : PICKUP FROM LODGE
 
 Customer will pick employee directly from lodge
 No charge for customer
-TAB 2 : PICKUP FROM BRANCH
-ARCO deliver the employee ARCO to Branch
-Customer will pick employee from ARCO Branch
-Customer will be charged for the delivery from Arco Lodge to Arco Branch.
-TAB 3 : DELIVER TO HOME
+
+### TAB 2 : PICKUP FROM BRANCH
+- ARCO deliver the employee ARCO to Branch
+- Customer will pick employee from ARCO Branch
+- Customer will be charged for the delivery from Arco Lodge to Arco Branch.
+
+### TAB 3 : DELIVER TO HOME
 Employee will be delivered directly to home by ARCO.
 Customer will be charged for the employee delivery
 
 
-After choosing any tabs from the above and save the respective tabs, Delivery work flow process get started...
+***After choosing any tabs from the above and save the respective tabs, Delivery work flow process get started...
 
 
-`PER DAY CONTRACT -- Individual Sector---->Labour Movement--->Delivery Request'
+# ```PER DAY CONTRACT -- Individual Sector---->Labour Movement--->Delivery Request```
+
 (1). Contract Number : IRM000XXXX
 (2). Now Contract Status is "Waiting For Delivery"
 (A). Request Checkout (Workflow Stage)
 
-Search contract number
-Click on complete action to move to "Waiting For Checkout"
+### Search contract number
 
-(B). Waiting for Checkout (Workflow Stage)
+- Click on complete action to move to "Waiting For Checkout"
 
-Search contract number
-Go to Lodging Module and check out the employee LDG-->Labour Movement-->Labour CheckOut
+### (B). Waiting for Checkout (Workflow Stage)
 
-(C). Labour CheckOut (Workflow)
+### Search contract number
 
-LDG-->Labour Movement-->Labour CheckOut
-Click on "Requested" workflow stage
-Lodging user will monitor "Labour Check Out" page
-Lodging user will search employee in "Request" stage and click on "Action"---->Complete
-Employee moved to next stage "Waiting For CheckOut"
-Finger print verification should be made with the device
-If finger print device not available, user will get the message "error - Delivery Request Not Found"
-Waiting For Checkout---->Action--->Complete
-Employee record moved to Complete
-Record moved from LDG module to Individual Sector
+- Go to Lodging Module and check out the employee LDG-->Labour Movement-->Labour CheckOut
 
-(D).By default Record moved to CSE Confirmation (Individual Sector---->Labour Movement--->Delivery Request)
+### (C). Labour CheckOut (Workflow)
+
+- LDG-->Labour Movement-->Labour CheckOut
+- Click on "Requested" workflow stage
+- Lodging user will monitor "Labour Check Out" page
+- Lodging user will search employee in "Request" stage and click on "Action"---->Complete
+- Employee moved to next stage "Waiting For CheckOut"
+- Finger print verification should be made with the device
+- If finger print device not available, user will get the message "error - Delivery Request Not Found"
+- Waiting For Checkout---->Action--->Complete
+- Employee record moved to Complete
+- Record moved from LDG module to Individual Sector
+
+### (D).By default Record moved to CSE Confirmation (Individual Sector---->Labour Movement--->Delivery Request)
+
 1. Click on Action--->Complete
 (E).Next stage "Delivery To Home" will not go due to customer chosen "Pick up from lodge", so the employee record
 directly moved to "Customer Confirmation"
@@ -318,12 +310,12 @@ directly moved to "Customer Confirmation"
 (H). Now contract status is "CHANGED TO VALID"
 (I). PER DAY CONTRACT will be created for customers.
 
-Low Cost Package Contract
+[Low Cost Package Contract](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Lowcost%20Contract.md)
 
-Contract Extend
+https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Extend.md
 
-Employee Exchange
+https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Employee%20Exchange.md
 
-Change Nationality
+https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Change%20Nationality.md
 
-Sponsor Change
+https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Sponsor%20Change.md
