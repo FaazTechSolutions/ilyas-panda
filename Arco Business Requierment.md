@@ -312,10 +312,10 @@ directly moved to "Customer Confirmation"
 
 [Low Cost Package Contract](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Lowcost%20Contract.md)
 
-https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Extend.md
+[Contract Extend](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Extend.md)
 
-https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Employee%20Exchange.md
+[Employee Exchange](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Employee%20Exchange.md)
 
-https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Change%20Nationality.md
+[Change Nationality](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Change%20Nationality.md)
 
-https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Sponsor%20Change.md
+[Sponsor Change](https://gitlab.com/fts-projects/arco-documentation/-/blob/master/Individual%20Sector/Individual%20Sector%20Customer%20Contract%20Sponsor%20Change.md)
