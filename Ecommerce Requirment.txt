@@ -1,0 +1,40 @@
+Ecommerce Requirment Document points:
+================================
+Customer Login/pre order stage requirment points:( pre sales)
+-----------------------------------------------------
+Need website
+need customer ui login page register
+need creat user passpword to login
+need mobile notification to maintain own page each customer ui
+need item common serch in top
+need item list page w / Gategory filter
+item details  Brand picture/Description / model number
+item variety / size / color Pictures
+item price with Discount  Deal indication
+need to show special price like Deal of the day price and deal end date
+need to show the price w or w/o vat tax( inclusive all tax...)
+need to show to customer how much  Money he saved in this Deal
+need to show to customer how many % Discount Deal he will get this
+need to show to customer available qty by each color and if stock end Detail 
+need to shoe to customer that Delivery free or charges
+need to show to customer about product review and other comments 
+
+Customer approch to buying stage requirment points:
+-----------------------------------------------------
+need menu buy now
+need menu add cart
+ need payment details
+need cash on Delivery option if available 
+need to show to customer cashback policy / emi / bank offer..
+payment method to pay,,, online cash bank/ gpay/ phone pay..
+cutomer Address Location to reach despatch
+need to show about when the Delivery reach customer
+customer contact with additional contact number 
+need to show the payment invoice details
+need to send customer Notification once payment done
+need to show Delivery track online plotform to know the status
+need to Ask the Evaluation for the Delivery process while reached goods
+need to ask the Delivery man perofrmance and Atitude while Deliver the goods
+need keep return / Exchange good policy
+need to show the warrenty period with Condition
+need to ask customer feedback about the item usage
