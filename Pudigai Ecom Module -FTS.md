@@ -1,5 +1,4 @@
 # Pudigai Ecommerce Modules:
-======================
 
 ### Login:
 ----------
@@ -23,7 +22,7 @@
 
 ### Forget Password :
 ------------------
-1.  Enter Forget password  Form
+1. Enter Forget password  Form
 2. Email id /Mobile Number
 3. Sent OTP
 4. OTP process form Mail or Mobile
@@ -35,7 +34,7 @@
 
 ### Item List :
 -----------
- 1. item name 
+1. item name 
 2. item Description
 3. item image
 4. item price
@@ -61,13 +60,13 @@
 
 ### Shapping cart :
 --------------------
- 1.item name
+1.item name
 2.item code / details
 3.item qty to buy
 4.item add qty to buy if same code item
 5.item add Cart diff item code
-6. Buy now
-7. Move to Checkout 
+6.Buy now
+7.Move to Checkout 
 
 ### Check out :
 ---------------
@@ -87,9 +86,9 @@
 
 ### Item Dispatch :
 -----------------
-1. Customer ID Details
+1.Customer ID Details
 2.Customer type
-3. item Details
+3.item Details
 4.invoice details
 5.payment status
 6.Delivery Types
@@ -105,9 +104,9 @@
 #### Customer Confirmation & Feedback:
 -------------------------------------
 1. Customer id Details
-2.status of Item Received Confirmation
-3.item Received Date
-4.quality of packing 
+2. status of Item Received Confirmation
+3. item Received Date
+4. quality of packing 
 5. Speed of service Feedback
 6. Evaluation of Delivery process
 7. Evaluation of Delivery man service and Attitue 
