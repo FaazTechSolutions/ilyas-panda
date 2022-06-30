@@ -1,17 +1,17 @@
-Pudigai Ecommerce Modules:
+# Pudigai Ecommerce Modules:
 ======================
 
-Login:
--------
- 1. Website URL Page to Enter Ecom
+### Login:
+----------
+1.Website URL Page to Enter Ecom
 2.Login Existing User 
 3.Valid User name / Mobile Number
 4.Valid User password
-5. Submmit
+5.Submmit
 6.Continue to page
 
-Registeration :
-----------------
+### Registeration :
+-------------------
 1. Website URL page to enter Ecomm
 2. Name
 3. Contat Number
@@ -21,7 +21,7 @@ Registeration :
 7. Submit
 8. Continue to Register user
 
-Forget Password :
+### Forget Password :
 ------------------
 1.  Enter Forget password  Form
 2. Email id /Mobile Number
@@ -33,7 +33,7 @@ Forget Password :
 8. ReEnter New password to Confirm
 9. Submit
 
-Item List :
+### Item List :
 -----------
  1. item name 
 2. item Description
@@ -43,8 +43,8 @@ Item List :
 6. item Available in Currnet qty
 7. item Add to Cart
 
-Item Details:
--------------
+### Item Details:
+------------------
 1. item kilo grem
 2. item packing by kilo
 3. item by litr
@@ -59,8 +59,8 @@ Item Details:
 12. item usage Benefits 
 13. item Add to Cart
 
-Shapping cart :
-----------------
+### Shapping cart :
+--------------------
  1.item name
 2.item code / details
 3.item qty to buy
@@ -69,8 +69,8 @@ Shapping cart :
 6. Buy now
 7. Move to Checkout 
 
-Check out :
-------------
+### Check out :
+---------------
 1.Item name
 2.item code/Details
 3.Customer Type specification if any
@@ -85,7 +85,7 @@ Check out :
 12. payment Finish Received Notification
 13.Move to Dispatch item Delivery stage
 
-Item Dispatch :
+### Item Dispatch :
 -----------------
 1. Customer ID Details
 2.Customer type
@@ -102,7 +102,7 @@ Item Dispatch :
 13.item Delivery Track Number to check status
 14.shipment and packing code
 
-Customer Confirmation & Feedback:
+#### Customer Confirmation & Feedback:
 -------------------------------------
 1. Customer id Details
 2.status of Item Received Confirmation
