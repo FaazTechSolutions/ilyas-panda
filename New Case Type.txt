@@ -1,0 +1,33 @@
+New case Types :
+################
+1.Leave Request,
+
+?2.Retirement Request,
+
+3.Escaped Request,
+
+4.ATM Re-issuance Request,
+
+5.Iqama Re-issuance Request,
+
+6.ATM Renewal Request,
+
+7.Iqama Renewal Request,
+
+8.Medical Insurance Upgrade,
+
+9.Returning Labor Request,
+
+10.Salary Change Request,
+
+11.Chamber of Commerce Attestation,
+
+12.Salary Certificate,
+
+13.Employment Certificate,
+
+14.Family Visa Request,
+
+15.Work Injury,
+
+16.Sponsorship Transfer,
