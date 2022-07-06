@@ -1,0 +1,124 @@
+Pudigai Ecommerce Modules:
+======================
+
+Login:
+-------
+ 1. Website URL Page to Enter Ecom
+2.Login Existing User 
+3.Valid User name / Mobile Number
+4.Valid User password
+5. Submmit
+6.Continue to page
+
+Registeration :
+----------------
+1. Website URL page to enter Ecomm
+2. Name
+3. Contat Number
+4. password
+5. ReEnter password
+6. Email id
+7. Submit
+8. Continue to Register user
+
+Forget Password :
+------------------
+1.  Enter Forget password  Form
+2. Email id /Mobile Number
+3. Sent OTP
+4. OTP process form Mail or Mobile
+5. Enter OTP
+6. Enter old password
+7. Enter New password
+8. ReEnter New password to Confirm
+9. Submit
+
+Item List :
+-----------
+ 1. item name 
+2. item Description
+3. item image
+4. item price
+5. item code / sku
+6. item Available in Currnet qty
+7. item Add to Cart
+
+Item Details:
+-------------
+1. item kilo grem
+2. item packing by kilo
+3. item by litr
+4. item by packing size 
+5. item by production date
+6. item expiry Details
+7. item packed date
+8. show the item used before month/ year
+9. item to be Storage Number of Temperature details
+10. item category mention 
+11. Seasonal item details
+12. item usage Benefits 
+13. item Add to Cart
+
+Shapping cart :
+----------------
+ 1.item name
+2.item code / details
+3.item qty to buy
+4.item add qty to buy if same code item
+5.item add Cart diff item code
+6. Buy now
+7. Move to Checkout 
+
+Check out :
+------------
+1.Item name
+2.item code/Details
+3.Customer Type specification if any
+4.Showing the invice with total cart
+5.Showing the total item payment details with qty
+6.Billing address
+7.Delivery address
+8.Mobile Number 
+9.Proceed to pay
+10.Submit payment 
+11.Enter OTP for proceed payment
+12. payment Finish Received Notification
+13.Move to Dispatch item Delivery stage
+
+Item Dispatch :
+-----------------
+1. Customer ID Details
+2.Customer type
+3. item Details
+4.invoice details
+5.payment status
+6.Delivery Types
+7.Delivery Location
+8.Delivery Address details
+9.Date of Delivery Estimated
+10.Time of Delivery appraxmate for Customer Convience
+11.Customer Contact Number
+12.Delivery Man Contact number and Details
+13.item Delivery Track Number to check status
+14.shipment and packing code
+
+Customer Confirmation & Feedback:
+-------------------------------------
+1. Customer id Details
+2.status of Item Received Confirmation
+3.item Received Date
+4.quality of packing 
+5. Speed of service Feedback
+6. Evaluation of Delivery process
+7. Evaluation of Delivery man service and Attitue 
+8. Feedback about Product usage.
+
+====================================================
+
+
+
+
+
+
+
+
