@@ -1,6 +1,6 @@
 Request Table
 ===========
--Requester
+-Requester  
 -Title
 -Description
 -Type
