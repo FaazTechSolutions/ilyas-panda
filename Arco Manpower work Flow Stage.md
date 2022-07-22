@@ -1,8 +1,8 @@
-Arco Manpower Module Workflow Steps:-
-----------------------------------------------------
-Dear User we have been made this Arco Manpower work flow to Run Your Business Smothly with Right manpower with correct process and Sytem to track  
+# Arco Manpower Module Workflow Steps:-
 
-your Daily work process with our Delay and without any missing requirment stage.
+- Dear User we have been made this Arco Manpower work flow to Run Your Business Smothly with Right manpower with correct process and Sytem to track  
+
+- your Daily work process with our Delay and without any missing requirment stage.
 
 We have 4 Types of Module in Manpower is given Below :-
 ===================================
@@ -11,8 +11,8 @@ We have 4 Types of Module in Manpower is given Below :-
 3. PAYROLL
 4. LODGING
 
-1. IR- International Relations:
--------------------------------------
+ # IR- International Relations:
+
 # Agent:
 ======
 -Agent Id 	
