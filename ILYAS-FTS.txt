@@ -1,0 +1,29 @@
+For Following Page Records
+
+EntitySetUp
+Field
+Form
+WorkFow
+WorkFlow Rules
+Event
+Event Action
+Template
+Rest Api
+Attachment
+
+
+
+Ameerilyas-user
+Mohamed@12345-password( gitlab)
+
+"ng build --prod --output-hashing none"- comments for Deplaoyment,
+
+NPM- NODE  PACKAGE MODULE.
+Postman
+Katalon Studio
+Soap UI
+Parasoft
+REST assured
+Tricentis Tosca
+Ping API
+Assertible

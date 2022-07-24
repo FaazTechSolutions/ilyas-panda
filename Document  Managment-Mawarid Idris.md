@@ -1,0 +1,115 @@
+Request Table
+===========
+-Requester  
+-Title
+-Description
+-Type
+-IsTemplate
+-Status
+
+Request Assignment
+===============
+-ReqReId
+-Order
+-User Id
+-SignType
+-Sign Location
+
+Request Status
+============
+-ReqReId
+-Status
+-AssignedTo
+-StartDateTime
+-EndDateTime
+-Comments
+
+Approvers
+========
+-User Id
+-Status(enable/disable)
+-InitialImageId
+-SignatureImageId
+
+Specific APIs
+==========
+GetApproversforRequest(ReqRecId)
+GetSignLocationforRequest(ReqRecId)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Approvers
+=========
+
+The seperate list of approvers with the user id and their initial and sign images are to be maintained.
+Approvers can be activated or deactivated.
+when activating the approver need to check the signature and initial images.
+Only the activated approvers should be available for the approval selection.
+
+Request
+=======
+
+Create the Request with attaching the document in pdf format.
+The request will be created in the draft stage
+User need to select the approvers from the list of approvers in the order the approval should happen.
+For each approvers user need to select the location of the sign and the sign type.
+Approvals will be assigned one by one in the sequence of the approvers list.
+
+Document Request will have 5 stages
+=============================
+-Draft
+-In Review
+-Approved
+-Rejected
+-Change Requested
+
+Following details will explain the actions and behaviors of each stage
+====================================================
+
+-Draft
+======
+when user create the request it will be in draft stage.
+user can review and submit the request for approval
+
+-In Review
+========
+
+when the user submit the request for approval, the request will be in this stage(In Review)
+the requst will come to this stage from Draft stage and Change Requested Stage.
+Approvals will be assigned one by one to the Approvers in the sequence of the approvers list.
+when the request reaches this stage the first approver in the list will be assigned to this request
+there will be 3 actions for Approvers in this stage, each behaviour is explained below
+
+when Approve
+===========
+if the document is correct the user will approve the request.
+when the user approves the request, the system will check if there is a next level approval , if yes the request will be assigned to the next approver
+if there is no next level approver the request will be moved to approved stage
+
+when Reject
+==========
+if the document is incorrect, and the approver wants to reject the document, the user will reject the request.
+when the user Rejects the request, the request will be moved to Rejected stage
+
+when Change Request
+=================
+if the document is incorrect, and the approver want to change the document, the approver will take the action of Change Request.
+when the approver take the action of Change Request, the approver must provide the message to the requester about the changes needed in the document.
+the request will be moved to Change Requested stage.
+
+-Approved
+=========
+
+when all the approvers approve the request , the request will be moved to this stage(Approved).
+There is no actions in this stage.
+
+-Rejected
+========
+
+when any of the approver Reject the request , the request will be moved to this stage(Rejected).
+There is no actions in this stage.
+
+-Change Requested
+===============
+
+when any of the approver want to change the document and take the action of Change Request. the request will be moved to this stage(Change Requested).
+the requester can make changes to the document as per the message given by the approver who requested for change
+upload the newly changed document and submit the request.

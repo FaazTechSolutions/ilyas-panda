@@ -1,0 +1,13 @@
+﻿Show only the request belongs to Project Manager or to the person who requested and to the in-charge Accountant.
+
+Ø  Visa Issuance stage cannot move to the next stage with the attached Visa Copy.
+
+If the Request is No COC Attestation, system should directly move the request to Complete Stage after the Approval Stage but cannot move to Complete stage if there is No Attachment.
+
+For Employment Certificate and Salary Certificate, system will generate the Certificate after the Approval Stage.
+
+Work Accident Registration, On Process Stage cannot move to Completed Stage without the GOSI number.
+
+Action to Upload Multiple requests.
+
+Escalation to Managers and Incharge Person

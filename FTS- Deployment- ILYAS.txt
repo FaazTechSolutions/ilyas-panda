@@ -1,0 +1,49 @@
+ 
+Case task management Test Deplaoyment PATH.
+-------------------------------------------------
+E:\ERP\Productivity\wwwroot\web  
+Arco Test Server credentials:
+======================
+40.85.155.82:3389 
+uname:m.abdulmuhaimen
+pass:Abdul@995511 
+Build or Generate code for Deployment:
+==============================
+"ng build --prod --output-hashing none"- comments for Deplaoyment,
+How to Deployment steps:
+*********************
+1. OPEN THE VS CODE
+2. OPEN FOLDER
+3.CHOSE THE PROJECT FOLDER /D COLEN/ GIT/ARCO CASE& TASK FOLDER/ PRODUCTIVITY( Source code location)
+3.1- UPDATE THE LATEST CODE FORM PROJEFT ( PULL REQUEST).
+4.OPEN CMD COMMENTS 
+5.PUT- ng build --prod --output-hashing none"- comments for Deplaoyment,
+6.RUN THE CMD FOR BUILD THE PROJECTS..
+7. once Bulid Finish ...Open DIST FOLDER in Productivity Folder.
+8.copy the file all from Dist folder Except "INTEX... ASSETS""... COPY
+9.OPEN the Remote server ..
+10. GO to File Explorer area and Open E: COLEN
+11. E:\ERP\Productivity\wwwroot\web  ( Deploy Location )
+12.open Web Folder then "past" the Build files which we copy from DIST .
+13. Deployment has been finished end of past file .... Done.
+14. then go to APP to check the changes or Modification which we Deployed action.
+===================================================================
+
+
+
+
+TESTING CERTIFICATION:
+-------------------------
+Licenses & certifications Licenses & certifications
+ISTQB® - International Software Testing Qualifications Board logo
+ISTQB foundation level in Software testingISTQB foundation level in Software testing
+ISTQB® - International Software Testing Qualifications Board
+
+TEST.. ON SUNDAY 20TH JUNE ADEL/ ISANUULAH...  IN THIS BELOW TITLE:
+==========================================================
+DML.
+DDL. 
+Indexes.
+functions.
+stored procedures. 
+triggers.. 
