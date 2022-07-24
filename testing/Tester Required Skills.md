@@ -6,6 +6,7 @@ We are currently looking for a remote Middle Automation Tester with experience w
 
 The customer is a French multinational retailer of personal care and beauty products. Featuring nearly 3,000 brands, along with its own private label, it offers beauty products including cosmetics, skincare, body, fragrance, nail color, beauty tools, body lotions and haircare.
 
+
 # Responsibilities 
 
 - Implement new functionality into the test automation frameworks (Karate DSL (API&UI), Vividus (on decommission), SoapUI (optional, on decommission))
@@ -14,6 +15,7 @@ The customer is a French multinational retailer of personal care and beauty prod
 - Reviewing and analyzing product requirements for clarity and consistency with existing features
 - Writing and verifying defects
 - Discussion technical challenges, making proposals how to handle them, presenting those proposals to customer
+
 
 # Requirements
 
