@@ -155,3 +155,17 @@
 >Selection is a long process, commencing from the preliminary interview of the applicants and ending with the contract of employment. 
 >In practice, the process differs among organisations and between two different jobs within the same company.
 
+
+### Employee Documents
+-----------------------
+- Passport
+- Medical Insurance
+- Iqama
+- Health Card
+- Driving License
+- ATM
+- Renewals
+- Reissue
+- Social Insurance
+
+
