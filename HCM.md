@@ -132,3 +132,16 @@
 >Each employee has a Master record that can be viewed from the HR Employee Master or from the Employee Time Master.
 >The Employee Master tab contains the employee's full name, Social Security number, mailing information, and a shortcut to the employee's ESS PIN Detail.
 >The HR Employee Master has demographics and an option to include a photograph of the employee. It has seven tabs:  Employee Master, Demographics, Employment, Compensation, Assignment, Organization, and Browse. The browse tab provides shortcuts to detail records for the employee.
+
+- LEAVE TYPE
+- COUNTRY
+- REGION
+- LITY
+- VISA PROFESSION
+- JOB SPECIFICATION
+- DRIVING LICENSE
+- MEDICAL CENTER
+- LOAN TYPE
+- POSITION
+- INSURANCE COVER
+- INSURANCE CLAIM
