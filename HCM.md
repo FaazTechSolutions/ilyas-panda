@@ -49,29 +49,29 @@
 >It requires a series of collecting and reviewing resumes, conducting job interviews, 
 >and finally selecting and onboarding an employee to start working for the organization.
 
-Hiring Requisitions(Request/Approval)
-Recruitment marketing
-Job distribution
-Career website
-Talent pools
-Applicant tracking
-Background  Varification
-Recruitment Administration
-Diversity and compliance
-Dash Board
-Agent
-Condidate
-Recuritment order
-Demand letter
-Demand letter work flow
-Demand letter line
-Candidate Selection
-Arrival Quarantine
-Flight Details
-Travel Airline
-Agent process Summary
-Recruitment order process Summery
-Agent process chartf
+- Hiring Requisitions(Request/Approval)
+- Recruitment marketing
+- Job distribution
+- Career website
+- Talent pools
+- Applicant tracking
+- Background  Varification
+- Recruitment Administration
+- Diversity and compliance
+- Dash Board
+- Agent
+- Condidate
+- Recuritment order
+- Demand letter
+- Demand letter work flow
+- Demand letter line
+- Candidate Selection
+- Arrival Quarantine
+- Flight Details
+- Travel Airline
+- Agent process Summary
+- Recruitment order process Summery
+- Agent process chartf
 
 ### Lodging
 -------------
@@ -80,33 +80,33 @@ Agent process chartf
 >Your accommodations while traveling, going away to school, 
 >being an exchange student, or doing temporary work are all called lodging or lodgings ...
 
-LABOUR IN LODGING
-LABOUR IN MARKETING
-LODGING PROFILE SEARCH
-LABOUR MOVEMENT
-LABOUR CHECK IN
-LABOUR CHECK OUT
-CHECK IN & CHECK OUT
-FOOD MANAGEMENT
-FOOD REQUEST
-FOOD ISSUES
-LABOUR FOOD TAKEN
-LABOUR TRANSFER
-TRANSFER ORDER
-TRANSFER REQUEST
-LABOUR CASES
-REST
-REFUSE TO WORK
-DEAD
-JAIL
-ESCAPE
-HOSPITAL
-SEND DOCUMENT
-INDIVIDUAL ENVELOP
-BUSINESS
-PACKAGE
-MOVE ENVELOP
-BUSINESS ENVELOP
+- LABOUR IN LODGING
+- LABOUR IN MARKETING
+- LODGING PROFILE SEARCH
+- LABOUR MOVEMENT
+- LABOUR CHECK IN
+- LABOUR CHECK OUT
+- CHECK IN & CHECK OUT
+- FOOD MANAGEMENT
+- FOOD REQUEST
+- FOOD ISSUES
+- LABOUR FOOD TAKEN
+- LABOUR TRANSFER
+- TRANSFER ORDER
+- TRANSFER REQUEST
+- LABOUR CASES
+- REST
+- REFUSE TO WORK
+- DEAD
+- JAIL
+- ESCAPE
+- HOSPITAL
+- SEND DOCUMENT
+- INDIVIDUAL ENVELOP
+- BUSINESS
+- PACKAGE
+- MOVE ENVELOP
+- BUSINESS ENVELOP
 
 ### Onboarding
 ---------------
