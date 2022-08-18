@@ -145,3 +145,13 @@
 - POSITION
 - INSURANCE COVER
 - INSURANCE CLAIM
+
+### Employee Contract
+----------------------
+
+>By Entrepreneur Staff. Employment Contract Definition: An agreement entered into between an employer and an employee 
+>at the time the employee is hired that outlines the exact nature of their business relationship,
+>specifically what compensation the employee will receive in exchange for specific work performed.
+>Selection is a long process, commencing from the preliminary interview of the applicants and ending with the contract of employment. 
+>In practice, the process differs among organisations and between two different jobs within the same company.
+
