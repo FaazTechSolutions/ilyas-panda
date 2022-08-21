@@ -178,7 +178,9 @@
 
 ### Payroll
 ------------
-
+>A payroll system is a software to automate the payroll process. 
+>These systems can be integrated with leave and attendance tracking systems and employee self-service portal 
+>and are used to keep track of employee's working hours, calculate salaries, calculate taxes and deductions, print payslip, etc.
 
 
 
