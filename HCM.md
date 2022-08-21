@@ -169,3 +169,16 @@
 - Social Insurance
 
 
+### Time & Attendance 
+----------------------
+>Term Definition of Time and Attendance Time and attendance is the process of tracking work hours. 
+>In the past this was always a manual system. 
+>Employees may have manually completed a time card and that information was used for payroll and benefits.
+
+
+### Payroll
+------------
+
+
+
+
