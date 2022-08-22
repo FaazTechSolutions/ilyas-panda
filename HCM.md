@@ -1,4 +1,6 @@
 # Human Capital Managment
+![image](https://user-images.githubusercontent.com/105497741/185842359-61192fbd-0b93-4b21-b4fd-3dfe5b67bec6.png)
+
 
 >Human Capital Management (HCM) is also called-HR. 
 >HCM consists of important sub-modules like Personnel Administration (PA), 
@@ -157,7 +159,7 @@
 
 
 ### Employee Documents
------------------------
+-----------------------                                 
 - Passport
 - Medical Insurance
 - Iqama
@@ -171,16 +173,24 @@
 
 ### Time & Attendance 
 ----------------------
+![image](https://user-images.githubusercontent.com/105497741/185841483-ee10ca59-5129-43e8-9113-4708847872ab.png)
+
 >Term Definition of Time and Attendance Time and attendance is the process of tracking work hours. 
 >In the past this was always a manual system. 
 >Employees may have manually completed a time card and that information was used for payroll and benefits.
 
 
 ### Payroll
-------------
+------------    
+
+![image](https://user-images.githubusercontent.com/105497741/185840565-6b0ac9fa-2559-4648-97b5-d008163cb44f.png)
+
 >A payroll system is a software to automate the payroll process. 
 >These systems can be integrated with leave and attendance tracking systems and employee self-service portal 
 >and are used to keep track of employee's working hours, calculate salaries, calculate taxes and deductions, print payslip, etc.
 
 
+### Leave
+-----------
+![image](https://user-images.githubusercontent.com/105497741/185839335-da2f9ad6-2261-48ce-96c3-409a714795f4.png)
 
