@@ -81,6 +81,8 @@
 
 ### Lodging
 -------------
+![image](https://user-images.githubusercontent.com/105497741/185844040-5392948c-80a8-4baf-a319-10cd8d44faa7.png)
+
 >lodging Add to list Share. Lodging is a name for the place you stay when you're not at home. 
 >Your lodging could be a luxury hotel, a yurt in the woods, or a college dormitory. 
 >Your accommodations while traveling, going away to school, 
@@ -116,6 +118,8 @@
 
 ### Onboarding
 ---------------
+![image](https://user-images.githubusercontent.com/105497741/185844603-911ce166-f68b-46ac-ab9b-fad4babe0996.png)
+
 >Taking the new hire around the office and introducing him/her to other employees. 
 >Taking the new hire out to lunch on their first day. Checking in with the new hire regularly
 >Employee onboarding is broadly defined as the process of familiarizing a (new) employee with the organizations policies, 
@@ -135,6 +139,8 @@
 
 ### Employee Master
 --------------------
+![image](https://user-images.githubusercontent.com/105497741/185844923-7bf0eb66-5739-418c-a6a0-1667fc85a35e.png)
+
 >Each employee has a Master record that can be viewed from the HR Employee Master or from the Employee Time Master.
 >The Employee Master tab contains the employee's full name, Social Security number, mailing information, and a shortcut to the employee's ESS PIN Detail.
 >The HR Employee Master has demographics and an option to include a photograph of the employee. It has seven tabs:  Employee Master, Demographics, Employment, Compensation, Assignment, Organization, and Browse. The browse tab provides shortcuts to detail records for the employee.
@@ -154,6 +160,8 @@
 
 ### Employee Contract
 ----------------------
+![image](https://user-images.githubusercontent.com/105497741/185845242-7b8bab72-f763-4956-a99b-b52da886bf90.png)
+
 
 >By Entrepreneur Staff. Employment Contract Definition: An agreement entered into between an employer and an employee 
 >at the time the employee is hired that outlines the exact nature of their business relationship,
@@ -163,8 +171,11 @@
 
 
 ### Employee Documents
------------------------                                 
-- Passport
+-----------------------
+
+ ![image](https://user-images.githubusercontent.com/105497741/185845582-4a5073aa-fed6-4883-9c27-d00f6a16db78.png)
+
+- passport
 - Medical Insurance
 - Iqama
 - Health Card
@@ -198,3 +209,5 @@
 -----------
 ![image](https://user-images.githubusercontent.com/105497741/185839335-da2f9ad6-2261-48ce-96c3-409a714795f4.png)
 
+### Loan
+---------
