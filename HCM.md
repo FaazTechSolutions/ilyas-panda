@@ -466,6 +466,9 @@ Types of secured loans
 ### RENEWAL
 ------------
 ![image](https://user-images.githubusercontent.com/105497741/185938964-ad2659a2-6706-421c-98da-e583f8d5a73f.png)
+>the act or process of renewing : repetition. the quality or state of being renewed. 
+>something (such as a subscription to a magazine) renewed.
+>something used for renewing specifically : an expenditure that betters existing fixed assets.
 
 
 
