@@ -23,6 +23,8 @@
 
 ### Organization
 -----------------
+![image](https://user-images.githubusercontent.com/105497741/185843309-00a4cc20-e88e-47c0-b1d1-e8f22fd6604b.png)
+
 >A group of people united for a common purpose a business organization.
 >As a structure, organisation is a network of internal authority and responsibility relationships. 
 >It is the framework of relationships of persons operating at various levels to accomplish common objectives. 
@@ -46,6 +48,8 @@
 
 ### Recruitment
 ----------------
+![image](https://user-images.githubusercontent.com/105497741/185843583-2f915165-73d5-4d33-98b2-3937d6b9dbfc.png)
+
 >Recruitment is the process of finding, screening, hiring and eventually onboarding qualified job candidates.
 >The recruitment process involves finding the candidate with the best skills, experience, and personality to fit the job. 
 >It requires a series of collecting and reviewing resumes, conducting job interviews, 
