@@ -125,6 +125,10 @@
 >Employee onboarding is broadly defined as the process of familiarizing a (new) employee with the organizations policies, 
 >the employees role in the organization, and the organizations culture.
 
+
+When Employee on board company has to prepare the following document list:
+--------------------------------------------------------------------------
+- EMP ID
 - MEDICAL TEST
 - NEW EMP REQUEST
 - LABOUR OFFICE
@@ -135,6 +139,61 @@
 - GOSI
 - LIFE INSURANCE
 - ID CARD PROCESS
+
+### Employee onboard
+- The process of selected employee enter into a organization is called employee onboard.
+
+
+1. Employee ID
+Each Employee  has a unique employee ID
+
+2. Border Number
+Border number is the hand-written number on your passport at the time you entered KSA.
+
+3. Iqama number
+Iqama is residence or work permit card that you and your dependents must have, if you are living in Saudi Arabia.
+
+4. Nationality
+Nationality is a legal relationship between an individual person and a state
+
+5. Employee type
+- Labour Visa
+- Employement Visa
+
+6. Gender
+- Male
+- Female
+
+7. Medical Test
+The country expect desease free employee.
+
+8. Labour office
+
+9. Medical insurance
+Medical insurance used for to treat the employee health issues
+
+10. Iqama issue
+
+11. ATM
+Each employee have the ATM card.
+
+12. Bank account number
+Each employee have the account number, employee salary will generate on the bank account
+
+13. Health certificate
+- Gosi salary
+- The General Organization for Social Insurance (GOSI)
+14. Life insurance
+- TYPES OF CLASS WILL BE FINALZE ACCORDING THE EMP WORK STATUS.
+
+15. Car insurance policy
+company will give car insurance policy
+
+16. Driving license
+To drive in saudi Arabia will get saudi licence.
+
+17. Arrival loan
+When employee enter to country pocket money will given by company.
 
 
 ### Employee Master
@@ -219,6 +278,14 @@
 >A payroll system is a software to automate the payroll process. 
 >These systems can be integrated with leave and attendance tracking systems and employee self-service portal 
 >and are used to keep track of employee's working hours, calculate salaries, calculate taxes and deductions, print payslip, etc.
+
+- paygroup
+- transaction
+- periodic
+- setup
+- master
+- accural setup
+- pay period
 
 
 ### Leave
