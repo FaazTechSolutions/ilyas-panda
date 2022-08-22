@@ -265,6 +265,9 @@
 ### Travel
 --------------
 ![image](https://user-images.githubusercontent.com/105497741/185849252-bb18881b-7649-43e9-8cc4-bc993d82031a.png)
+> to journey from place to place or to a distant place. 
+> to get around  pass from one place to another The news traveled fast.
+> to journey through or over We're traveling the countryside.
 
 
 
