@@ -457,6 +457,7 @@ Types of secured loans
 
 ### REISSUE
 ------------
+![image](https://user-images.githubusercontent.com/105497741/185938133-6bfb963b-6936-46b3-8268-65fef76492b2.png)
 
 >something that is issued again, as a book or a motion picture. an official reprinting of a postage stamp after the original printing has been stopped. 
 >verb (used with object), re·is·sued, re·is·su·ing. to issue again.
