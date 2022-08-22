@@ -20,6 +20,9 @@
 - End of Service
 - Visa Management
 - Travel
+- REISSUE
+- RENEWAL
+- REPORTS
 
 ### Organization
 -----------------
@@ -390,6 +393,7 @@ When employee enter to country pocket money will given by company.
 ### Loan
 ---------
 ![image](https://user-images.githubusercontent.com/105497741/185848345-a29127fe-82cd-4694-ad76-c25f902054fb.png)
+
 >Employee loans are funds that the company advances to assist workers. 
 >As with a traditional loan, employees are expected to repay these loans to their employer. 
 >If the total balance is due within a year, the company may consider the loan a current asset on its balance sheet
@@ -397,6 +401,18 @@ When employee enter to country pocket money will given by company.
 >A loan is a sum of money that one or more individuals or companies borrow from banks or other financial institutions 
 >so as to financially manage planned or unplanned events. In doing so, the borrower incurs a debt, 
 >which he has to pay back with interest and within a given period of time.
+
+#### What are the 4 types of loans?
+
+- The lender decides a fixed rate of interest that you must pay on the money you borrow, along with the principal amount borrowed.
+
+Types of secured loans
+- Home loan.
+- Loan against property (LAP) ...
+- Loans against insurance policies. ...
+- Gold loans. ...
+- Loans against mutual funds and shares. ...
+- Loans against fixed deposits.
 
 ### End of Service
 -------------------
@@ -409,6 +425,11 @@ When employee enter to country pocket money will given by company.
 > Depending on the company, these benefits may include health insurance (required to be offered by larger companies), 
 > dental insurance, vision care, life insurance, legal insurance, paid vacation leave, personal leave, sick leave, child care, fitness, 
 > retirement benefits and planning services, college debt relie etc...
+
+- FINAL SETTLEMENT
+- RETIRMENT REQUEST
+- EOS REJECT REQUEST
+- EOS SETUP
 
 
 ### Visa Management
@@ -427,10 +448,15 @@ When employee enter to country pocket money will given by company.
 > to journey through or over We're traveling the countrys
 
 ### Travel Management
+
 - Visa and Permits Management
 - Business Trip
+- VISA REQUEST
+- TRAVEL REQUEST
+- TICKET
 
-
+### REISSUE
+------------
 
 
 
