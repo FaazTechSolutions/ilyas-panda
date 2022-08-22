@@ -215,11 +215,17 @@
 
 ### End of Service
 -------------------
+![image](https://user-images.githubusercontent.com/105497741/185848990-89854b2d-63f3-4c75-9af3-4b63cac28940.png)
+
 
 ### Visa Management
 ---------------------
+![image](https://user-images.githubusercontent.com/105497741/185849132-7abe411c-bc9e-45bd-adc4-a99da2bb3d81.png)
+
 
 ### Travel
 --------------
+![image](https://user-images.githubusercontent.com/105497741/185849252-bb18881b-7649-43e9-8cc4-bc993d82031a.png)
+
 
 
