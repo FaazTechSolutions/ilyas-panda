@@ -269,6 +269,16 @@ When employee enter to country pocket money will given by company.
 >In the past this was always a manual system. 
 >Employees may have manually completed a time card and that information was used for payroll and benefits.
 
+- Earning Codes
+- Deduction Codes
+- Absence Code Setup
+- Overtime Setup
+- Deduction Time Setup
+- TimeSheet
+- Earnings
+- Deductions
+
+
 
 ### Payroll
 ------------    
