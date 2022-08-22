@@ -297,6 +297,14 @@ When employee enter to country pocket money will given by company.
 - accural setup
 - pay period
 
+#### pay cycle as per the organization structure
+- Earning Statements
+- Pay Statements
+- Pay Slip
+- Payments 
+- Close Month 
+- Accrual Posting 
+- Hold Salary
 
 ### Leave
 -----------
