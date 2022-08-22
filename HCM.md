@@ -233,6 +233,13 @@
 ### Loan
 ---------
 ![image](https://user-images.githubusercontent.com/105497741/185848345-a29127fe-82cd-4694-ad76-c25f902054fb.png)
+>Employee loans are funds that the company advances to assist workers. 
+>As with a traditional loan, employees are expected to repay these loans to their employer. 
+>If the total balance is due within a year, the company may consider the loan a current asset on its balance sheet
+
+>A loan is a sum of money that one or more individuals or companies borrow from banks or other financial institutions 
+>so as to financially manage planned or unplanned events. In doing so, the borrower incurs a debt, 
+>which he has to pay back with interest and within a given period of time.
 
 ### End of Service
 -------------------
