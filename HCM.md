@@ -175,6 +175,22 @@
 
  ![image](https://user-images.githubusercontent.com/105497741/185845582-4a5073aa-fed6-4883-9c27-d00f6a16db78.png)
 
+>An employee's record of documentation is a written account of his or her actions, discussions, performance coaching incidents, 
+>witnessed policy violations, disciplinary actions, positive contributions, reward and recognition, investigations, 
+>failure to accomplish requirements and goals, performance evaluation, and more .
+
+#### What are the 7 types of documents?
+
+- Please find a short overview of the 7 types of documents you should store below:
+- CERTIFICATES OF GUARANTEE. ...
+- WORK DOCUMENTS. ...
+- VEHICLE DOCUMENTS. ...
+- ACADEMIC DOCUMENTS. ...
+- MEDICAL DOCUMENTS. ...
+- HOUSING INFORMATION. ...
+- NATIONAL IDENTITY DOCUMENTS.
+
+***we have some specific Document between EMP & Employer in a organisation below:
 - passport
 - Medical Insurance
 - Iqama
@@ -208,6 +224,11 @@
 ### Leave
 -----------
 ![image](https://user-images.githubusercontent.com/105497741/185839335-da2f9ad6-2261-48ce-96c3-409a714795f4.png)
+>Leave is simply taking an off from work day after informing the management formally and sometimes even informally. 
+>Leaves are the days that every working professional is entitled to and paid for, apart from the holidays. 
+>Paid leaves are a part of benefits offered by companies apart from medical claim.
+>A leave of absence is authorized time away from work, often for special circumstances in an employee's life. 
+>A leave of absence may be paid or unpaid. Some laws cover certain instances of leave, such as jury duty and military service.
 
 ### Loan
 ---------
