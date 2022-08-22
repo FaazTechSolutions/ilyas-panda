@@ -245,6 +245,14 @@
 -------------------
 ![image](https://user-images.githubusercontent.com/105497741/185848990-89854b2d-63f3-4c75-9af3-4b63cac28940.png)
 
+>They are a form of indirect compensation which the company offers in addition to the employee's salary, 
+>as they help the employee to meet their basic needs in the same way their salary would. 
+>Employee services are a subset of employee benefits. Consider them to be like perks of the job
+
+> Depending on the company, these benefits may include health insurance (required to be offered by larger companies), 
+> dental insurance, vision care, life insurance, legal insurance, paid vacation leave, personal leave, sick leave, child care, fitness, 
+> retirement benefits and planning services, college debt relie etc...
+
 
 ### Visa Management
 ---------------------
