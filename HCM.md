@@ -471,3 +471,5 @@ Types of secured loans
 
 ### REPORTS
 ------------
+![image](https://user-images.githubusercontent.com/105497741/185939850-16be26d7-400f-45be-9461-ec24061026ab.png)
+
