@@ -315,6 +315,13 @@ When employee enter to country pocket money will given by company.
 >A leave of absence is authorized time away from work, often for special circumstances in an employee's life. 
 >A leave of absence may be paid or unpaid. Some laws cover certain instances of leave, such as jury duty and military service.
 
+#### Leave Management Module helps in automating the leave request workflow process like:
+
+- Leave Request creation,
+- Leave Validation,
+- Leave Approval,
+- Leave Rejection
+
 ### Loan
 ---------
 ![image](https://user-images.githubusercontent.com/105497741/185848345-a29127fe-82cd-4694-ad76-c25f902054fb.png)
