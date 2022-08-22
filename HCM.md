@@ -465,6 +465,8 @@ Types of secured loans
 
 ### RENEWAL
 ------------
+![image](https://user-images.githubusercontent.com/105497741/185938964-ad2659a2-6706-421c-98da-e583f8d5a73f.png)
+
 
 
 ### REPORTS
