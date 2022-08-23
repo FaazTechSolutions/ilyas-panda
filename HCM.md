@@ -13,7 +13,7 @@
 - [Employee Master](#employee-master)
 - [Employee Contract](#employee-contract)
 - [Employee Documents](#employee-documents)
-- [Time & Attendance](#time-attendance)
+- [Time & Attendance](#time--attendance)
 - [Payroll](#payroll)
 - [Leave](#leave)
 - [Loan](#loan)
