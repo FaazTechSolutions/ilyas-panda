@@ -478,4 +478,7 @@ Types of secured loans
 ### REPORTS
 ------------
 ![image](https://user-images.githubusercontent.com/105497741/185939850-16be26d7-400f-45be-9461-ec24061026ab.png)
+>Human Capital Management (HCM) Report Management helps you to manage the human resources in your organization. 
+>You can define and generate reports of different formats to track the current status 
+>and the change over time of employee master data and their payroll data.
 
