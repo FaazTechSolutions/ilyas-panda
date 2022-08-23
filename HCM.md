@@ -462,8 +462,16 @@ Types of secured loans
 >something that is issued again, as a book or a motion picture. an official reprinting of a postage stamp after the original printing has been stopped. 
 >verb (used with object), re·is·sued, re·is·su·ing. to issue again.
 
-- iqama 
-
+#### Employer can re issue the below category Documents as Emp request
+-----------------------------------------------------------------------
+- IQAMA
+- ATM
+- EMP ID
+- BANK ACCOUNT OPENING LETTER
+- DRIVING LISENCE
+- MEDICAL CARD
+- EXPERIENCE LETTER
+- SALARY CERTIFICATE
 
 ### RENEWAL
 ------------
@@ -475,8 +483,16 @@ Types of secured loans
 >and an arrangement needs to be made if you want to continue it for an extra period of time: 
 >Your new insurance premium is shown on the enclosed renewal notice.
 
-
-
+#### Employer can preceed to renewal the below category Documents as Emp request 
+---------------------------------------------------------------------------------
+- PASSPORT
+- IQAMA
+- ATM
+- INSURANCE CARD
+- DRIVING LISENCE
+- EMP CONTRACT
+- EMP WORK PERMIT
+- EMP ID
 ### REPORTS
 ------------
 ![image](https://user-images.githubusercontent.com/105497741/185939850-16be26d7-400f-45be-9461-ec24061026ab.png)
