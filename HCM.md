@@ -482,7 +482,8 @@ Types of secured loans
 >You can define and generate reports of different formats to track the current status 
 >and the change over time of employee master data and their payroll data.
 
-Image result
+![image](https://user-images.githubusercontent.com/105497741/186074978-39c8b5c0-c84e-44d5-af95-c6813738952f.png)
+
 >A report is a presentation of data in an organized structure. 
 >Many database management systems include a report writer that enables you to design and generate reports. 
 >SAP applications support report creation. A classical report is created by using the output data in the WRITE statement inside a loop
