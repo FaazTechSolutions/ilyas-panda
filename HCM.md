@@ -462,6 +462,8 @@ Types of secured loans
 >something that is issued again, as a book or a motion picture. an official reprinting of a postage stamp after the original printing has been stopped. 
 >verb (used with object), re·is·sued, re·is·su·ing. to issue again.
 
+- iqama 
+
 
 ### RENEWAL
 ------------
