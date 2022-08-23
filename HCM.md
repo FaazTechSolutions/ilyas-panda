@@ -437,6 +437,24 @@ Types of secured loans
 
 >Visa Management is a full suite of service-oriented applications designed to securely manage visa applications and issue visas, eVisas, and resident permits.
 
+#### Visa requirements:
+-----------------------
+- Requirements typically include filling out the visa application form, 
+- providing your passport for stamping if required,
+- a photograph, 
+- additional documents such as your flight itinerary, 
+- hotel booking or letter of invitation. 
+- Many countries also have inadmissibility guidelines when it comes to issuing visas.
+
+#### Stages of visa processing:
+--------------------------------
+- File a Petition with USCIS. ...
+- Case Preparation by the National Visa Center. ...
+- Visa Interview Scheduling by the National Visa Center (NVC) ...
+- Medical Exam. ...
+- The day of the interview. ...
+- Visa Approval. ...
+- After you receive your visa.
 
 
 ### Travel
