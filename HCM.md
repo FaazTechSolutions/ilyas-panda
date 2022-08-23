@@ -436,14 +436,19 @@ Types of secured loans
 ![image](https://user-images.githubusercontent.com/105497741/185849132-7abe411c-bc9e-45bd-adc4-a99da2bb3d81.png)
 
 >Visa Management is a full suite of service-oriented applications designed to securely manage visa applications and issue visas, eVisas, and resident permits.
+>Probably one of the four main types: 
+>Tourist, 
+>Immigration, 
+>Student, 
+>Work
 
 #### Visa requirements:
 -----------------------
 - Requirements typically include filling out the visa application form, 
-- providing your passport for stamping if required,
-- a photograph, 
-- additional documents such as your flight itinerary, 
-- hotel booking or letter of invitation. 
+- Providing your passport for stamping if required,
+- photograph, 
+- Additional documents such as your flight itinerary, 
+- Hotel booking or letter of invitation. 
 - Many countries also have inadmissibility guidelines when it comes to issuing visas.
 
 #### Stages of visa processing:
