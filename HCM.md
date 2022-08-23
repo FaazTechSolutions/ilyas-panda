@@ -8,21 +8,21 @@
 
 - [Organization](#organization)
 - [Recruitment](#recruitment)
-- Lodging
-- Onboarding
-- Employee Master
-- Employee Contract
-- Employee Documents
-- Time & Attendance 
-- Payroll
-- Leave
-- Loan
-- End of Service
-- Visa Management
-- Travel
-- REISSUE
-- RENEWAL
-- REPORTS
+- [Lodging](#lodging)
+- [Onboarding](#onboarding)
+- [Employee Master](#employee-master)
+- [Employee Contract](#employee-contract)
+- [Employee Documents](#employee-documents)
+- [Time & Attendance](#time-attendance)
+- [Payroll](#payroll)
+- [Leave](#leave)
+- [Loan](#loan)
+- [End of Service](#end-of-service)
+- [Visa Management](#visa-management)
+- [Travel](#travel)
+- [REISSUE](#reissue)
+- [RENEWAL](#renewal)
+- [REPORTS](#reports)
 
 ### Organization
 -----------------
