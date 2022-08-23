@@ -390,7 +390,8 @@ When employee enter to country pocket money will given by company.
 
 ### Loan
 ---------
-![image](https://user-images.githubusercontent.com/105497741/185848345-a29127fe-82cd-4694-ad76-c25f902054fb.png)
+
+![image](https://user-images.githubusercontent.com/105497741/186089395-73a40ade-8db0-4618-821c-6edc7ed6d631.png)
 
 >Employee loans are funds that the company advances to assist workers. 
 >As with a traditional loan, employees are expected to repay these loans to their employer. 
