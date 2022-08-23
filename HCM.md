@@ -6,8 +6,8 @@
 >HCM consists of important sub-modules like Personnel Administration (PA), 
 >Organizational Management (OM), Time, Recruiting, Lodging,Onboard,Payroll, loan,Leave,Travel and End of Service etc.... all of which will be discussed in detail.
 
-- Organization
-- Recruitment
+- [Organization](#organization)
+- [Recruitment](#recruitment)
 - Lodging
 - Onboarding
 - Employee Master
