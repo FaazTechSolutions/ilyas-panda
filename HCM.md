@@ -492,7 +492,7 @@ Types of secured loans
 - DRIVING LISENCE
 - EMP CONTRACT
 - EMP WORK PERMIT
-- EMP ID
+
 ### REPORTS
 ------------
 ![image](https://user-images.githubusercontent.com/105497741/185939850-16be26d7-400f-45be-9461-ec24061026ab.png)
@@ -510,3 +510,16 @@ Types of secured loans
 - Standard reports ( SAP EASY ACCESS MENU—Info systems)
 - HRIS (Human Resource Information System)—reporting using structural graphics.
 - Manager's desktop—Obviously a tool used by Managers to evaluate and change data.
+
+#### Employer generation reports during the organaisation Function and Deal with employee
+------------------------------------------------------------------------------------------
+- Total Number of Emp 
+- EMP Category reports
+- work status reports
+- Emp year of completion
+- salary group reports
+- Emp Contract renewal status reports
+- Emp Document issue or not status
+- Emp performance status reports
+- Reginal / Division grouop reports
+
