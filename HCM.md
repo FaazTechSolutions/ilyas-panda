@@ -482,3 +482,12 @@ Types of secured loans
 >You can define and generate reports of different formats to track the current status 
 >and the change over time of employee master data and their payroll data.
 
+Image result
+>A report is a presentation of data in an organized structure. 
+>Many database management systems include a report writer that enables you to design and generate reports. 
+>SAP applications support report creation. A classical report is created by using the output data in the WRITE statement inside a loop
+#### Various ways of reporting in SAP HR:
+-----------------------------------------
+- Standard reports ( SAP EASY ACCESS MENU—Info systems)
+- HRIS (Human Resource Information System)—reporting using structural graphics.
+- Manager's desktop—Obviously a tool used by Managers to evaluate and change data.
