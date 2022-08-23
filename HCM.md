@@ -263,8 +263,7 @@ When employee enter to country pocket money will given by company.
 
 ### Employee Documents
 -----------------------
-
- ![image](https://user-images.githubusercontent.com/105497741/185845582-4a5073aa-fed6-4883-9c27-d00f6a16db78.png)
+![image](https://user-images.githubusercontent.com/105497741/186088057-7e4659a0-c2da-418f-b1d2-41269757e73e.png)
 
 >An employee's record of documentation is a written account of his or her actions, discussions, performance coaching incidents, 
 >witnessed policy violations, disciplinary actions, positive contributions, reward and recognition, investigations, 
@@ -314,8 +313,7 @@ When employee enter to country pocket money will given by company.
 
 ### Payroll
 ------------    
-
-![image](https://user-images.githubusercontent.com/105497741/185840565-6b0ac9fa-2559-4648-97b5-d008163cb44f.png)
+![image](https://user-images.githubusercontent.com/105497741/186088743-a2c2a9e3-1b5a-4192-aa3a-b27b60b20519.png)
 
 >A payroll system is a software to automate the payroll process. 
 >These systems can be integrated with leave and attendance tracking systems and employee self-service portal 
