@@ -45,3 +45,55 @@
 3. Salary Slips and Reports
 4. Payroll Integration
 5. Salary Slip Compliance
+
+
+# Modules in Payroll software
+
+
+### General :
+
+- Company with Default ESI/PF Percent
+- Employee with ESI/ PF Percent
+- Employee Salary
+
+### Setup:
+
+- Salary Head
+- Professional Tax Setup
+- Pay Period
+- Lookup
+
+### Periodic:
+
+- Attendance
+- Earnings
+- Deduction
+- Pay Statement
+- Time Sheet Export
+- Time Sheet Import
+- Pay Statement Export
+
+#### PayrollStatus
+- Payperiod,
+- Status
+ 1. pending
+ 2. generated
+ 3. approved
+
+### Monthly Export
+
+- Employee ID, Name - fill the data
+- Attendancetype as each column
+- Allowancecs as each column
+- Dedductions as each column
+
+### When import
+- Import Attendance
+- Import Alowanaces
+- Import Deducctions
+
+### when calculate salary
+- ESI - EmployeePercent
+- ESI - EmployerPercent
+- PF - EmployeePercent
+- PF - EmployerPercent
