@@ -135,4 +135,17 @@
 - Posting Profile
 - Over Time
 - Deduction Time
-- 
+
+5.Master
+- Other Payment Type
+- Allowance Type
+- Attendance Type
+- Deduction Type
+
+6. Accural SetUp
+- Provision Type
+- Provision Eligibility
+- Provision Allowance
+- Provision Flight Ticket
+- ProvisionAccural
+- ProvisionBalance
