@@ -109,7 +109,7 @@
 6. ACCURAL SETUP
 7. PAY PERIOD
 
-1. PayGroup
+1.PayGroup
 - PayGroup Employee
 - Project Manager
 - PayGroup
@@ -118,7 +118,8 @@
 - Other Payment
 - Deduction
 
-3. PERIOD
+3.PERIOD
+
 - Periodic
 - Time Sheet
 - PRLPayment Request
@@ -127,5 +128,11 @@
 - Salary
 - Ind Salary
 
-4. SETUP
+4.SETUP
 
+- Pay Cycle
+- Attendance
+- Posting Profile
+- Over Time
+- Deduction Time
+- 
