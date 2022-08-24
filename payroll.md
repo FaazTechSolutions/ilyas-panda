@@ -102,11 +102,30 @@
 # PAYROLL FLOW:
 --------------
 1. PAY GROUP
-2. TRANSACTIONS
+2. Transactions
 3. PERIOD
 4. SETUP
 5. MASTER
 6. ACCURAL SETUP
 7. PAY PERIOD
 
+1. PayGroup
+- PayGroup Employee
+- Project Manager
+- PayGroup
+
+2.Transactions
+- Other Payment
+- Deduction
+
+3. PERIOD
+- Periodic
+- Time Sheet
+- PRLPayment Request
+- Ind PRLPayment Request
+- Ind Payroll
+- Salary
+- Ind Salary
+
+4. SETUP
 
