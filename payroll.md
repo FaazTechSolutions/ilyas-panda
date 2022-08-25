@@ -137,15 +137,28 @@
 - Deduction Time
 
 5.Master
+
 - Other Payment Type
 - Allowance Type
 - Attendance Type
 - Deduction Type
 
 6. Accural SetUp
+
 - Provision Type
 - Provision Eligibility
 - Provision Allowance
 - Provision Flight Ticket
 - ProvisionAccural
 - ProvisionBalance
+
+7. PAY PERIOD
+
+- pay period
+- pay cycle
+   1.	Description 	
+   2.	From Date 	
+   3.	To Date 	
+   4.	Attendance From Date 	
+   5.	Attendance To Date 	
+   6.	Cutoff Date 	
