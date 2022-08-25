@@ -1,11 +1,11 @@
 Payroll Discussion -FTS 
--------------------------------
+------------------------
 Meeting hosted by- Abdul arco
 Meeting Topics- Hcm Payroll 
 Meeting Duration - 2 Hrs
 
 Meeting Points :-
----------------------
+-------------------
 payroll work flow:( setup)
 -------------------------
 payroll is nothing but a Company calculating the emp Salary base on the work time and work quantity, Payroll will calculatd with salary, Bonus,Eos, Duduction,loan,absent and  other payment all will cover in payroll process.
@@ -19,8 +19,8 @@ payroll is nothing but a Company calculating the emp Salary base on the work tim
 - Pay period
 
 All the payroll setup we will Discuss in Detail below points:
------------------------------------------------------------------------
-1. Period:-
+-------------------------------------------------------------
+1.Period:-
 ------------
 period is the Essencial for payroll process, all the emp payment will be Calculated with period base only.
 - work status 
@@ -51,12 +51,12 @@ Most for the manpower company they follow below 3 methods only.
      2.1-30 days- ( 30 days calculation)
      3.INDPL-  which is 1 to 31 ( end of month)
 
-3. Master :
+3.Master :
 -------------
 This  Master stage flow we will Discuss the below points 
 
 - Other Payment Type
-------------------------------
+----------------------
     1. OP- Total other payments Amount
            - ot amount
            - total ot hrs
@@ -97,7 +97,7 @@ This  Master stage flow we will Discuss the below points
             -  Contract end date
 
 - Allowance Type
------------------------
+------------------
 In this  stage Emp will get all the allowance from the Employer, these all the details will be calculated while payroll Functions, These all allowance will change between the Employee based on his role and position.
     1. Basic-Basic Pay
          - emp number
@@ -162,7 +162,7 @@ In this  stage Emp will get all the allowance from the Employer, these all the d
        - Business Support team	
 
 - Attendance Type
-----------------------
+------------------
 Attendance is very important process to track the Emp working stage, to run the payroll Emp attendance very Essencial Date , these below all the poits to be Focused and  check the each flow to Confirm the Employer before he start to prepare the  payroll.	
       1. Absent- Absent ( Not repoted to duty)		
       2. Emergency- Emergency Leave	
@@ -179,7 +179,7 @@ Attendance is very important process to track the Emp working stage, to run the 
      13.Cutoff Date
 
 - Deduction Type
-----------------------
+-----------------
 
       1. Tot. AD- Total Absence Days.	
       2. TDH- Total Deduction Hours.	
@@ -192,8 +192,8 @@ Attendance is very important process to track the Emp working stage, to run the 
       9. pl- personal laon	
      10. Food_Ded- Food Deduction
 
-4 . PayGroup:
-------------------
+4.PayGroup:
+--------------
 pay group is based on Contract, each Contract payroll will be differnt pay group calculation as per the contract agreement with customer. paygroup is relation between the Function of  Emp and Contract stage.
        1. PayGroup Employee:
           
@@ -210,8 +210,8 @@ pay group is based on Contract, each Contract payroll will be differnt pay group
            - project manager resposible
        3. PayGroup
 
-5. Periodic:
----------------
+5.Periodic:
+-------------
      
      1.Time Sheet:
   --------------------
