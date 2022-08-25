@@ -91,7 +91,8 @@ This  Master stage flow we will Discuss the below points
 
 - Allowance Type
 ------------------
-In this  stage Emp will get all the allowance from the Employer, these all the details will be calculated while payroll Functions, These all allowance will change between the Employee based on his role and position.
+>In this  stage Emp will get all the allowance from the Employer, these all the details will be calculated while payroll Functions, 
+>These all allowance will change between the Employee based on his role and position.
     1. Basic-Basic Pay
          - emp number
          - work Contract
@@ -156,7 +157,8 @@ In this  stage Emp will get all the allowance from the Employer, these all the d
 
 - Attendance Type
 ------------------
-Attendance is very important process to track the Emp working stage, to run the payroll Emp attendance very Essencial Date , these below all the poits to be Focused and  check the each flow to Confirm the Employer before he start to prepare the  payroll.	
+>Attendance is very important process to track the Emp working stage, to run the payroll Emp attendance very Essencial Date , 
+>these below all the poits to be Focused and  check the each flow to Confirm the Employer before he start to prepare the  payroll.	
       1. Absent- Absent ( Not repoted to duty)		
       2. Emergency- Emergency Leave	
       3. Leave- Leave ( vocation)			
@@ -187,7 +189,8 @@ Attendance is very important process to track the Emp working stage, to run the 
 
 4.PayGroup:
 --------------
-pay group is based on Contract, each Contract payroll will be differnt pay group calculation as per the contract agreement with customer. paygroup is relation between the Function of  Emp and Contract stage.
+>pay group is based on Contract, each Contract payroll will be differnt pay group calculation as per the contract agreement with customer.
+>paygroup is relation between the Function of  Emp and Contract stage.
        1. PayGroup Employee:
           
            - Contract period
