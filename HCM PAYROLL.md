@@ -159,15 +159,16 @@ This  Master stage flow we will Discuss the below points
 ------------------
 >Attendance is very important process to track the Emp working stage, to run the payroll Emp attendance very Essencial Date , 
 >these below all the poits to be Focused and  check the each flow to Confirm the Employer before he start to prepare the  payroll.	
-      1. Absent- Absent ( Not repoted to duty)		
-      2. Emergency- Emergency Leave	
-      3. Leave- Leave ( vocation)			
-      4. NA- Not Applicable(Present)		
-      5. off Tavel- official Travel ( Business Trip)			
-      6. OD- On Duty		
-      7. SL- Sick Leave		
-      8. Lodging- holding in lodge location
-      9. From Date
+      
+      1.Absent- Absent ( Not repoted to duty)		
+      2.Emergency- Emergency Leave	
+      3.Leave- Leave ( vocation)			
+      4.NA- Not Applicable(Present)		
+      5.off Tavel- official Travel ( Business Trip)			
+      6.OD- On Duty		
+      7.SL- Sick Leave		
+      8.Lodging- holding in lodge location
+      9.From Date
      10.To Date
      11.Attendance From Date
      12.Attendance To Date
