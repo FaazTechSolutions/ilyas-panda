@@ -1,10 +1,13 @@
 # User story
 
-A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer.
+>A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. 
+>The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer.
 
 ### What is user story and why?
 
-In agile software development, user stories help articulate what value a product feature can bring and have a better understanding of why users want a certain functionality. It helps the product manager and development team shift their focus from writing about the software features to discussing the features.
+>In agile software development, user stories help articulate what value a product feature can bring 
+>and have a better understanding of why users want a certain functionality. 
+>It helps the product manager and development team shift their focus from writing about the software features to discussing the features.
 
 ### 10 Tips for Writing Good User Stories
 - 1 Users Come First. ...
