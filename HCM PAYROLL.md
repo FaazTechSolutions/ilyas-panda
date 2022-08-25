@@ -1,14 +1,7 @@
-Payroll Discussion -FTS 
-------------------------
-Meeting hosted by- Abdul arco
-Meeting Topics- Hcm Payroll 
-Meeting Duration - 2 Hrs
-
-Meeting Points :-
--------------------
-payroll work flow:( setup)
+# payroll work flow:( setup)
 -------------------------
-payroll is nothing but a Company calculating the emp Salary base on the work time and work quantity, Payroll will calculatd with salary, Bonus,Eos, Duduction,loan,absent and  other payment all will cover in payroll process.
+>payroll is nothing but a Company calculating the emp Salary base on the work time and work quantity, 
+>Payroll will calculatd with salary, Bonus,Eos, Duduction,loan,absent and  other payment all will cover in payroll process.
 
 - Pay group
 - Transactions
